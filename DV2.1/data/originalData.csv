@@ -1,0 +1,4433 @@
+location,date,new_cases
+Bangladesh,3/3/2020,
+Bangladesh,3/4/2020,
+Bangladesh,3/5/2020,
+Bangladesh,3/6/2020,
+Bangladesh,3/7/2020,
+Bangladesh,3/8/2020,3
+Bangladesh,3/9/2020,0
+Bangladesh,3/10/2020,0
+Bangladesh,3/11/2020,0
+Bangladesh,3/12/2020,0
+Bangladesh,3/13/2020,0
+Bangladesh,3/14/2020,0
+Bangladesh,3/15/2020,2
+Bangladesh,3/16/2020,3
+Bangladesh,3/17/2020,2
+Bangladesh,3/18/2020,4
+Bangladesh,3/19/2020,3
+Bangladesh,3/20/2020,3
+Bangladesh,3/21/2020,5
+Bangladesh,3/22/2020,2
+Bangladesh,3/23/2020,6
+Bangladesh,3/24/2020,6
+Bangladesh,3/25/2020,0
+Bangladesh,3/26/2020,5
+Bangladesh,3/27/2020,4
+Bangladesh,3/28/2020,0
+Bangladesh,3/29/2020,0
+Bangladesh,3/30/2020,1
+Bangladesh,3/31/2020,2
+Bangladesh,4/1/2020,3
+Bangladesh,4/2/2020,2
+Bangladesh,4/3/2020,5
+Bangladesh,4/4/2020,9
+Bangladesh,4/5/2020,18
+Bangladesh,4/6/2020,35
+Bangladesh,4/7/2020,41
+Bangladesh,4/8/2020,54
+Bangladesh,4/9/2020,112
+Bangladesh,4/10/2020,94
+Bangladesh,4/11/2020,58
+Bangladesh,4/12/2020,139
+Bangladesh,4/13/2020,182
+Bangladesh,4/14/2020,209
+Bangladesh,4/15/2020,219
+Bangladesh,4/16/2020,341
+Bangladesh,4/17/2020,266
+Bangladesh,4/18/2020,306
+Bangladesh,4/19/2020,312
+Bangladesh,4/20/2020,492
+Bangladesh,4/21/2020,434
+Bangladesh,4/22/2020,390
+Bangladesh,4/23/2020,414
+Bangladesh,4/24/2020,503
+Bangladesh,4/25/2020,309
+Bangladesh,4/26/2020,418
+Bangladesh,4/27/2020,497
+Bangladesh,4/28/2020,549
+Bangladesh,4/29/2020,641
+Bangladesh,4/30/2020,564
+Bangladesh,5/1/2020,571
+Bangladesh,5/2/2020,552
+Bangladesh,5/3/2020,665
+Bangladesh,5/4/2020,688
+Bangladesh,5/5/2020,786
+Bangladesh,5/6/2020,790
+Bangladesh,5/7/2020,706
+Bangladesh,5/8/2020,709
+Bangladesh,5/9/2020,636
+Bangladesh,5/10/2020,887
+Bangladesh,5/11/2020,1034
+Bangladesh,5/12/2020,969
+Bangladesh,5/13/2020,1162
+Bangladesh,5/14/2020,1041
+Bangladesh,5/15/2020,1202
+Bangladesh,5/16/2020,930
+Bangladesh,5/17/2020,1273
+Bangladesh,5/18/2020,1602
+Bangladesh,5/19/2020,1251
+Bangladesh,5/20/2020,1617
+Bangladesh,5/21/2020,1773
+Bangladesh,5/22/2020,1694
+Bangladesh,5/23/2020,1873
+Bangladesh,5/24/2020,1532
+Bangladesh,5/25/2020,1975
+Bangladesh,5/26/2020,1166
+Bangladesh,5/27/2020,1541
+Bangladesh,5/28/2020,2029
+Bangladesh,5/29/2020,2523
+Bangladesh,5/30/2020,1764
+Bangladesh,5/31/2020,2545
+Bangladesh,6/1/2020,2381
+Bangladesh,6/2/2020,2911
+Bangladesh,6/3/2020,2695
+Bangladesh,6/4/2020,2423
+Bangladesh,6/5/2020,2828
+Bangladesh,6/6/2020,2635
+Bangladesh,6/7/2020,2743
+Bangladesh,6/8/2020,2735
+Bangladesh,6/9/2020,3171
+Bangladesh,6/10/2020,3190
+Bangladesh,6/11/2020,3187
+Bangladesh,6/12/2020,3471
+Bangladesh,6/13/2020,2856
+Bangladesh,6/14/2020,3141
+Bangladesh,6/15/2020,3099
+Bangladesh,6/16/2020,3862
+Bangladesh,6/17/2020,4008
+Bangladesh,6/18/2020,3803
+Bangladesh,6/19/2020,3243
+Bangladesh,6/20/2020,3240
+Bangladesh,6/21/2020,3531
+Bangladesh,6/22/2020,3480
+Bangladesh,6/23/2020,3412
+Bangladesh,6/24/2020,3462
+Bangladesh,6/25/2020,3946
+Bangladesh,6/26/2020,3868
+Bangladesh,6/27/2020,3504
+Bangladesh,6/28/2020,3809
+Bangladesh,6/29/2020,4014
+Bangladesh,6/30/2020,3682
+Bangladesh,7/1/2020,3775
+Bangladesh,7/2/2020,4019
+Bangladesh,7/3/2020,3114
+Bangladesh,7/4/2020,3288
+Bangladesh,7/5/2020,2738
+Bangladesh,7/6/2020,3201
+Bangladesh,7/7/2020,3027
+Bangladesh,7/8/2020,3489
+Bangladesh,7/9/2020,3360
+Bangladesh,7/10/2020,2949
+Bangladesh,7/11/2020,2686
+Bangladesh,7/12/2020,2666
+Bangladesh,7/13/2020,3099
+Bangladesh,7/14/2020,3163
+Bangladesh,7/15/2020,3533
+Bangladesh,7/16/2020,2733
+Bangladesh,7/17/2020,3034
+Bangladesh,7/18/2020,2709
+Bangladesh,7/19/2020,2459
+Bangladesh,7/20/2020,2928
+Bangladesh,7/21/2020,3057
+Bangladesh,7/22/2020,2744
+Bangladesh,7/23/2020,2856
+Bangladesh,7/24/2020,2548
+Bangladesh,7/25/2020,2520
+Bangladesh,7/26/2020,2275
+Bangladesh,7/27/2020,2772
+Bangladesh,7/28/2020,2960
+Bangladesh,7/29/2020,3009
+Bangladesh,7/30/2020,2695
+Bangladesh,7/31/2020,2772
+Bangladesh,8/1/2020,2199
+Bangladesh,8/2/2020,886
+Bangladesh,8/3/2020,1356
+Bangladesh,8/4/2020,1918
+Bangladesh,8/5/2020,2654
+Bangladesh,8/6/2020,2977
+Bangladesh,8/7/2020,2851
+Bangladesh,8/8/2020,2611
+Bangladesh,8/9/2020,2487
+Bangladesh,8/10/2020,2907
+Bangladesh,8/11/2020,2996
+Bangladesh,8/12/2020,2995
+Bangladesh,8/13/2020,2617
+Bangladesh,8/14/2020,2766
+Bangladesh,8/15/2020,2644
+Bangladesh,8/16/2020,2024
+Bangladesh,8/17/2020,2595
+Bangladesh,8/18/2020,3200
+Bangladesh,8/19/2020,2747
+Bangladesh,8/20/2020,2868
+Bangladesh,8/21/2020,2401
+Bangladesh,8/22/2020,2265
+Bangladesh,8/23/2020,1973
+Bangladesh,8/24/2020,2485
+Bangladesh,8/25/2020,2545
+Bangladesh,8/26/2020,2519
+Bangladesh,8/27/2020,2436
+Bangladesh,8/28/2020,2211
+Bangladesh,8/29/2020,2131
+Bangladesh,8/30/2020,1897
+Bangladesh,8/31/2020,2174
+Bangladesh,9/1/2020,1950
+Bangladesh,9/2/2020,2582
+Bangladesh,9/3/2020,2158
+Bangladesh,9/4/2020,1929
+Bangladesh,9/5/2020,1950
+Bangladesh,9/6/2020,1592
+Bangladesh,9/7/2020,2202
+Bangladesh,9/8/2020,1892
+Bangladesh,9/9/2020,1827
+Bangladesh,9/10/2020,1892
+Bangladesh,9/11/2020,1792
+Bangladesh,9/12/2020,1282
+Bangladesh,9/13/2020,1476
+Bangladesh,9/14/2020,1812
+Bangladesh,9/15/2020,1724
+Bangladesh,9/16/2020,1615
+Bangladesh,9/17/2020,1593
+Bangladesh,9/18/2020,1541
+Bangladesh,9/19/2020,1567
+Bangladesh,9/20/2020,1546
+Bangladesh,9/21/2020,1703
+Bangladesh,9/22/2020,1557
+Bangladesh,9/23/2020,1666
+Bangladesh,9/24/2020,1540
+Bangladesh,9/25/2020,1383
+Bangladesh,9/26/2020,1106
+Bangladesh,9/27/2020,1275
+Bangladesh,9/28/2020,1407
+Bangladesh,9/29/2020,1488
+Bangladesh,9/30/2020,1436
+Bangladesh,10/1/2020,1508
+Bangladesh,10/2/2020,1396
+Bangladesh,10/3/2020,1182
+Bangladesh,10/4/2020,1125
+Bangladesh,10/5/2020,1442
+Bangladesh,10/6/2020,1499
+Bangladesh,10/7/2020,1520
+Bangladesh,10/8/2020,1441
+Bangladesh,10/9/2020,1278
+Bangladesh,10/10/2020,1203
+Bangladesh,10/11/2020,1193
+Bangladesh,10/12/2020,1472
+Bangladesh,10/13/2020,1537
+Bangladesh,10/14/2020,1684
+Bangladesh,10/15/2020,1600
+Bangladesh,10/16/2020,1527
+Bangladesh,10/17/2020,1209
+Bangladesh,10/18/2020,1274
+Bangladesh,10/19/2020,1637
+Bangladesh,10/20/2020,1380
+Bangladesh,10/21/2020,1545
+Bangladesh,10/22/2020,1696
+Bangladesh,10/23/2020,1586
+Bangladesh,10/24/2020,1094
+Bangladesh,10/25/2020,1308
+Bangladesh,10/26/2020,1436
+Bangladesh,10/27/2020,1335
+Bangladesh,10/28/2020,1493
+Bangladesh,10/29/2020,1681
+Bangladesh,10/30/2020,1604
+Bangladesh,10/31/2020,1320
+Bangladesh,11/1/2020,1568
+Bangladesh,11/2/2020,1736
+Bangladesh,11/3/2020,1659
+Bangladesh,11/4/2020,1517
+Bangladesh,11/5/2020,1842
+Bangladesh,11/6/2020,1469
+Bangladesh,11/7/2020,1289
+Bangladesh,11/8/2020,1474
+Bangladesh,11/9/2020,1683
+Bangladesh,11/10/2020,1699
+Bangladesh,11/11/2020,1733
+Bangladesh,11/12/2020,1845
+Bangladesh,11/13/2020,1767
+Bangladesh,11/14/2020,1531
+Bangladesh,11/15/2020,1837
+Bangladesh,11/16/2020,2139
+Bangladesh,11/17/2020,2212
+Bangladesh,11/18/2020,2111
+Bangladesh,11/19/2020,2364
+Bangladesh,11/20/2020,2275
+Bangladesh,11/21/2020,1847
+Bangladesh,11/22/2020,2060
+Bangladesh,11/23/2020,2419
+Bangladesh,11/24/2020,2230
+Bangladesh,11/25/2020,2156
+Bangladesh,11/26/2020,2292
+Bangladesh,11/27/2020,2273
+Bangladesh,11/28/2020,1908
+Bangladesh,11/29/2020,1788
+Bangladesh,11/30/2020,2525
+Bangladesh,12/1/2020,2293
+Bangladesh,12/2/2020,2198
+Bangladesh,12/3/2020,2316
+Bangladesh,12/4/2020,2252
+Bangladesh,12/5/2020,1798
+Bangladesh,12/6/2020,1756
+Bangladesh,12/7/2020,2198
+Bangladesh,12/8/2020,2202
+Bangladesh,12/9/2020,2159
+Bangladesh,12/10/2020,1861
+Bangladesh,12/11/2020,1884
+Bangladesh,12/12/2020,1329
+Bangladesh,12/13/2020,1355
+Bangladesh,12/14/2020,1799
+Bangladesh,12/15/2020,1877
+Bangladesh,12/16/2020,1632
+Bangladesh,12/17/2020,1134
+Bangladesh,12/18/2020,1318
+Bangladesh,12/19/2020,1267
+Bangladesh,12/20/2020,1153
+Bangladesh,12/21/2020,1470
+Bangladesh,12/22/2020,1318
+Bangladesh,12/23/2020,1367
+Bangladesh,12/24/2020,1234
+Bangladesh,12/25/2020,1163
+Bangladesh,12/26/2020,834
+Bangladesh,12/27/2020,1049
+Bangladesh,12/28/2020,932
+Bangladesh,12/29/2020,1181
+Bangladesh,12/30/2020,1235
+Bangladesh,12/31/2020,1014
+Bangladesh,1/1/2021,990
+Bangladesh,1/2/2021,684
+Bangladesh,1/3/2021,835
+Bangladesh,1/4/2021,910
+Bangladesh,1/5/2021,991
+Bangladesh,1/6/2021,978
+Bangladesh,1/7/2021,1007
+Bangladesh,1/8/2021,785
+Bangladesh,1/9/2021,692
+Bangladesh,1/10/2021,1071
+Bangladesh,1/11/2021,849
+Bangladesh,1/12/2021,718
+Bangladesh,1/13/2021,890
+Bangladesh,1/14/2021,813
+Bangladesh,1/15/2021,762
+Bangladesh,1/16/2021,578
+Bangladesh,1/17/2021,569
+Bangladesh,1/18/2021,697
+Bangladesh,1/19/2021,702
+Bangladesh,1/20/2021,656
+Bangladesh,1/21/2021,584
+Bangladesh,1/22/2021,619
+Bangladesh,1/23/2021,436
+Bangladesh,1/24/2021,473
+Bangladesh,1/25/2021,602
+Bangladesh,1/26/2021,515
+Bangladesh,1/27/2021,528
+Bangladesh,1/28/2021,509
+Bangladesh,1/29/2021,454
+Bangladesh,1/30/2021,363
+Bangladesh,1/31/2021,369
+Bangladesh,2/1/2021,443
+Bangladesh,2/2/2021,525
+Bangladesh,2/3/2021,438
+Bangladesh,2/4/2021,485
+Bangladesh,2/5/2021,435
+Bangladesh,2/6/2021,305
+Bangladesh,2/7/2021,292
+Bangladesh,2/8/2021,316
+Bangladesh,2/9/2021,387
+Bangladesh,2/10/2021,388
+Bangladesh,2/11/2021,378
+Bangladesh,2/12/2021,444
+Bangladesh,2/13/2021,291
+Bangladesh,2/14/2021,326
+Bangladesh,2/15/2021,446
+Bangladesh,2/16/2021,396
+Bangladesh,2/17/2021,443
+Bangladesh,2/18/2021,391
+Bangladesh,2/19/2021,406
+Bangladesh,2/20/2021,350
+Bangladesh,2/21/2021,327
+Bangladesh,2/22/2021,366
+Bangladesh,2/23/2021,399
+Bangladesh,2/24/2021,428
+Bangladesh,2/25/2021,410
+Bangladesh,2/26/2021,470
+Bangladesh,2/27/2021,407
+Bangladesh,2/28/2021,385
+Bangladesh,3/1/2021,585
+Bangladesh,3/2/2021,515
+Bangladesh,3/3/2021,614
+Bangladesh,3/4/2021,619
+Bangladesh,3/5/2021,635
+Bangladesh,3/6/2021,540
+Bangladesh,3/7/2021,606
+Bangladesh,3/8/2021,845
+Bangladesh,3/9/2021,912
+Bangladesh,3/10/2021,1018
+Bangladesh,3/11/2021,1051
+Bangladesh,3/12/2021,1066
+Bangladesh,3/13/2021,1014
+Bangladesh,3/14/2021,1159
+Bangladesh,3/15/2021,1773
+Bangladesh,3/16/2021,1719
+Bangladesh,3/17/2021,1865
+Bangladesh,3/18/2021,2187
+Bangladesh,3/19/2021,1899
+Bangladesh,3/20/2021,1868
+Bangladesh,3/21/2021,2172
+Bangladesh,3/22/2021,2809
+Bangladesh,3/23/2021,3554
+Bangladesh,3/24/2021,3567
+Bangladesh,3/25/2021,3587
+Bangladesh,3/26/2021,3737
+Bangladesh,3/27/2021,3674
+Bangladesh,3/28/2021,3908
+Bangladesh,3/29/2021,5181
+Bangladesh,3/30/2021,5042
+Bangladesh,3/31/2021,5358
+Bangladesh,4/1/2021,6469
+Bangladesh,4/2/2021,6830
+Bangladesh,4/3/2021,5683
+Bangladesh,4/4/2021,7087
+Bangladesh,4/5/2021,7075
+Bangladesh,4/6/2021,7213
+Bangladesh,4/7/2021,7626
+Bangladesh,4/8/2021,6854
+Bangladesh,4/9/2021,7462
+Bangladesh,4/10/2021,5343
+Bangladesh,4/11/2021,5819
+Bangladesh,4/12/2021,7201
+Bangladesh,4/13/2021,6028
+Bangladesh,4/14/2021,5185
+Bangladesh,4/15/2021,4192
+Bangladesh,4/16/2021,4417
+Bangladesh,4/17/2021,3473
+Bangladesh,4/18/2021,3698
+Bangladesh,4/19/2021,4271
+Bangladesh,4/20/2021,4559
+Bangladesh,4/21/2021,4280
+Bangladesh,4/22/2021,4014
+Bangladesh,4/23/2021,3629
+Bangladesh,4/24/2021,2697
+Bangladesh,4/25/2021,2922
+Bangladesh,4/26/2021,3306
+Bangladesh,4/27/2021,3031
+Bangladesh,4/28/2021,2955
+Bangladesh,4/29/2021,2341
+Bangladesh,4/30/2021,2177
+Bangladesh,5/1/2021,1452
+Bangladesh,5/2/2021,1359
+Bangladesh,5/3/2021,1739
+Bangladesh,5/4/2021,1914
+Bangladesh,5/5/2021,1742
+Bangladesh,5/6/2021,1822
+Bangladesh,5/7/2021,1682
+Bangladesh,5/8/2021,1285
+Bangladesh,5/9/2021,1386
+Bangladesh,5/10/2021,1514
+Bangladesh,5/11/2021,1230
+Bangladesh,5/12/2021,1140
+Bangladesh,5/13/2021,1290
+Bangladesh,5/14/2021,848
+Bangladesh,5/15/2021,261
+Bangladesh,5/16/2021,363
+Bangladesh,5/17/2021,698
+Bangladesh,5/18/2021,1272
+Bangladesh,5/19/2021,1608
+Bangladesh,5/20/2021,1457
+Bangladesh,5/21/2021,1504
+Bangladesh,5/22/2021,1028
+Bangladesh,5/23/2021,1354
+Bangladesh,5/24/2021,1441
+Bangladesh,5/25/2021,1675
+Bangladesh,5/26/2021,1497
+Bangladesh,5/27/2021,1292
+Bangladesh,5/28/2021,1358
+Bangladesh,5/29/2021,1043
+Bangladesh,5/30/2021,1444
+Bangladesh,5/31/2021,1710
+Bangladesh,6/1/2021,1765
+Bangladesh,6/2/2021,1988
+Bangladesh,6/3/2021,1687
+Bangladesh,6/4/2021,1887
+Bangladesh,6/5/2021,1447
+Bangladesh,6/6/2021,1676
+Bangladesh,6/7/2021,1970
+Bangladesh,6/8/2021,2322
+Bangladesh,6/9/2021,2537
+Bangladesh,6/10/2021,2576
+Bangladesh,6/11/2021,2454
+Bangladesh,6/12/2021,1637
+Bangladesh,6/13/2021,2436
+Brazil,2/26/2020,1
+Brazil,2/27/2020,0
+Brazil,2/28/2020,0
+Brazil,2/29/2020,1
+Brazil,3/1/2020,0
+Brazil,3/2/2020,0
+Brazil,3/3/2020,0
+Brazil,3/4/2020,2
+Brazil,3/5/2020,0
+Brazil,3/6/2020,9
+Brazil,3/7/2020,0
+Brazil,3/8/2020,7
+Brazil,3/9/2020,5
+Brazil,3/10/2020,6
+Brazil,3/11/2020,7
+Brazil,3/12/2020,14
+Brazil,3/13/2020,99
+Brazil,3/14/2020,0
+Brazil,3/15/2020,11
+Brazil,3/16/2020,38
+Brazil,3/17/2020,121
+Brazil,3/18/2020,51
+Brazil,3/19/2020,249
+Brazil,3/20/2020,172
+Brazil,3/21/2020,228
+Brazil,3/22/2020,525
+Brazil,3/23/2020,378
+Brazil,3/24/2020,323
+Brazil,3/25/2020,307
+Brazil,3/26/2020,431
+Brazil,3/27/2020,432
+Brazil,3/28/2020,487
+Brazil,3/29/2020,352
+Brazil,3/30/2020,323
+Brazil,3/31/2020,1138
+Brazil,4/1/2020,1119
+Brazil,4/2/2020,1208
+Brazil,4/3/2020,1012
+Brazil,4/4/2020,1304
+Brazil,4/5/2020,770
+Brazil,4/6/2020,1031
+Brazil,4/7/2020,1873
+Brazil,4/8/2020,2136
+Brazil,4/9/2020,1922
+Brazil,4/10/2020,1546
+Brazil,4/11/2020,1089
+Brazil,4/12/2020,1465
+Brazil,4/13/2020,1238
+Brazil,4/14/2020,1832
+Brazil,4/15/2020,3058
+Brazil,4/16/2020,2105
+Brazil,4/17/2020,3257
+Brazil,4/18/2020,2976
+Brazil,4/19/2020,1996
+Brazil,4/20/2020,2089
+Brazil,4/21/2020,2336
+Brazil,4/22/2020,2678
+Brazil,4/23/2020,4279
+Brazil,4/24/2020,4007
+Brazil,4/25/2020,5281
+Brazil,4/26/2020,3776
+Brazil,4/27/2020,4346
+Brazil,4/28/2020,5789
+Brazil,4/29/2020,6450
+Brazil,4/30/2020,7502
+Brazil,5/1/2020,5015
+Brazil,5/2/2020,4898
+Brazil,5/3/2020,4726
+Brazil,5/4/2020,6794
+Brazil,5/5/2020,6835
+Brazil,5/6/2020,11156
+Brazil,5/7/2020,9162
+Brazil,5/8/2020,11121
+Brazil,5/9/2020,9167
+Brazil,5/10/2020,6638
+Brazil,5/11/2020,6895
+Brazil,5/12/2020,8620
+Brazil,5/13/2020,11923
+Brazil,5/14/2020,13028
+Brazil,5/15/2020,17126
+Brazil,5/16/2020,13220
+Brazil,5/17/2020,7569
+Brazil,5/18/2020,14288
+Brazil,5/19/2020,16517
+Brazil,5/20/2020,19694
+Brazil,5/21/2020,18508
+Brazil,5/22/2020,20803
+Brazil,5/23/2020,16508
+Brazil,5/24/2020,15813
+Brazil,5/25/2020,11687
+Brazil,5/26/2020,16324
+Brazil,5/27/2020,20599
+Brazil,5/28/2020,26417
+Brazil,5/29/2020,26928
+Brazil,5/30/2020,33274
+Brazil,5/31/2020,16409
+Brazil,6/1/2020,11598
+Brazil,6/2/2020,28936
+Brazil,6/3/2020,28633
+Brazil,6/4/2020,30925
+Brazil,6/5/2020,30830
+Brazil,6/6/2020,27075
+Brazil,6/7/2020,18912
+Brazil,6/8/2020,15654
+Brazil,6/9/2020,32091
+Brazil,6/10/2020,32913
+Brazil,6/11/2020,30412
+Brazil,6/12/2020,25982
+Brazil,6/13/2020,21704
+Brazil,6/14/2020,17110
+Brazil,6/15/2020,20647
+Brazil,6/16/2020,34918
+Brazil,6/17/2020,32188
+Brazil,6/18/2020,22765
+Brazil,6/19/2020,54771
+Brazil,6/20/2020,34666
+Brazil,6/21/2020,15762
+Brazil,6/22/2020,23129
+Brazil,6/23/2020,39436
+Brazil,6/24/2020,42725
+Brazil,6/25/2020,39483
+Brazil,6/26/2020,46860
+Brazil,6/27/2020,38693
+Brazil,6/28/2020,30476
+Brazil,6/29/2020,24052
+Brazil,6/30/2020,33846
+Brazil,7/1/2020,46712
+Brazil,7/2/2020,48105
+Brazil,7/3/2020,42223
+Brazil,7/4/2020,37923
+Brazil,7/5/2020,26051
+Brazil,7/6/2020,20229
+Brazil,7/7/2020,45305
+Brazil,7/8/2020,44571
+Brazil,7/9/2020,42619
+Brazil,7/10/2020,45048
+Brazil,7/11/2020,39023
+Brazil,7/12/2020,24831
+Brazil,7/13/2020,20286
+Brazil,7/14/2020,41857
+Brazil,7/15/2020,39924
+Brazil,7/16/2020,45403
+Brazil,7/17/2020,34177
+Brazil,7/18/2020,28532
+Brazil,7/19/2020,23529
+Brazil,7/20/2020,20257
+Brazil,7/21/2020,41008
+Brazil,7/22/2020,67860
+Brazil,7/23/2020,59961
+Brazil,7/24/2020,55891
+Brazil,7/25/2020,51147
+Brazil,7/26/2020,24578
+Brazil,7/27/2020,23284
+Brazil,7/28/2020,40816
+Brazil,7/29/2020,69074
+Brazil,7/30/2020,57837
+Brazil,7/31/2020,52383
+Brazil,8/1/2020,45392
+Brazil,8/2/2020,25800
+Brazil,8/3/2020,16641
+Brazil,8/4/2020,51603
+Brazil,8/5/2020,57152
+Brazil,8/6/2020,53139
+Brazil,8/7/2020,50230
+Brazil,8/8/2020,49970
+Brazil,8/9/2020,23010
+Brazil,8/10/2020,22048
+Brazil,8/11/2020,52160
+Brazil,8/12/2020,55155
+Brazil,8/13/2020,60091
+Brazil,8/14/2020,50644
+Brazil,8/15/2020,41576
+Brazil,8/16/2020,23101
+Brazil,8/17/2020,19373
+Brazil,8/18/2020,47784
+Brazil,8/19/2020,49298
+Brazil,8/20/2020,45323
+Brazil,8/21/2020,30355
+Brazil,8/22/2020,50032
+Brazil,8/23/2020,23421
+Brazil,8/24/2020,17078
+Brazil,8/25/2020,47134
+Brazil,8/26/2020,47161
+Brazil,8/27/2020,44235
+Brazil,8/28/2020,43412
+Brazil,8/29/2020,41350
+Brazil,8/30/2020,16158
+Brazil,8/31/2020,45961
+Brazil,9/1/2020,42659
+Brazil,9/2/2020,46934
+Brazil,9/3/2020,43773
+Brazil,9/4/2020,50163
+Brazil,9/5/2020,31199
+Brazil,9/6/2020,14521
+Brazil,9/7/2020,10273
+Brazil,9/8/2020,14279
+Brazil,9/9/2020,35816
+Brazil,9/10/2020,40557
+Brazil,9/11/2020,43718
+Brazil,9/12/2020,33523
+Brazil,9/13/2020,14768
+Brazil,9/14/2020,15155
+Brazil,9/15/2020,36653
+Brazil,9/16/2020,36820
+Brazil,9/17/2020,36303
+Brazil,9/18/2020,39797
+Brazil,9/19/2020,33057
+Brazil,9/20/2020,16389
+Brazil,9/21/2020,13411
+Brazil,9/22/2020,33324
+Brazil,9/23/2020,0
+Brazil,9/24/2020,66338
+Brazil,9/25/2020,31911
+Brazil,9/26/2020,28378
+Brazil,9/27/2020,14318
+Brazil,9/28/2020,13155
+Brazil,9/29/2020,32058
+Brazil,9/30/2020,33413
+Brazil,10/1/2020,36157
+Brazil,10/2/2020,0
+Brazil,10/3/2020,59741
+Brazil,10/4/2020,8456
+Brazil,10/5/2020,11946
+Brazil,10/6/2020,41906
+Brazil,10/7/2020,31553
+Brazil,10/8/2020,27750
+Brazil,10/9/2020,27444
+Brazil,10/10/2020,26749
+Brazil,10/11/2020,12342
+Brazil,10/12/2020,8429
+Brazil,10/13/2020,10220
+Brazil,10/14/2020,27235
+Brazil,10/15/2020,28523
+Brazil,10/16/2020,30914
+Brazil,10/17/2020,24062
+Brazil,10/18/2020,0
+Brazil,10/19/2020,26365
+Brazil,10/20/2020,23227
+Brazil,10/21/2020,24818
+Brazil,10/22/2020,24858
+Brazil,10/23/2020,30026
+Brazil,10/24/2020,26979
+Brazil,10/25/2020,13493
+Brazil,10/26/2020,15726
+Brazil,10/27/2020,29787
+Brazil,10/28/2020,28629
+Brazil,10/29/2020,26106
+Brazil,10/30/2020,22282
+Brazil,10/31/2020,18947
+Brazil,11/1/2020,10100
+Brazil,11/2/2020,8501
+Brazil,11/3/2020,11843
+Brazil,11/4/2020,23976
+Brazil,11/5/2020,0
+Brazil,11/6/2020,41156
+Brazil,11/7/2020,22380
+Brazil,11/8/2020,10554
+Brazil,11/9/2020,10917
+Brazil,11/10/2020,23973
+Brazil,11/11/2020,48655
+Brazil,11/12/2020,33922
+Brazil,11/13/2020,29070
+Brazil,11/14/2020,38307
+Brazil,11/15/2020,14134
+Brazil,11/16/2020,13371
+Brazil,11/17/2020,35294
+Brazil,11/18/2020,34091
+Brazil,11/19/2020,35918
+Brazil,11/20/2020,38397
+Brazil,11/21/2020,32622
+Brazil,11/22/2020,18615
+Brazil,11/23/2020,16207
+Brazil,11/24/2020,31100
+Brazil,11/25/2020,47898
+Brazil,11/26/2020,37614
+Brazil,11/27/2020,34130
+Brazil,11/28/2020,51922
+Brazil,11/29/2020,24468
+Brazil,11/30/2020,21138
+Brazil,12/1/2020,50909
+Brazil,12/2/2020,49863
+Brazil,12/3/2020,50434
+Brazil,12/4/2020,46884
+Brazil,12/5/2020,43209
+Brazil,12/6/2020,26363
+Brazil,12/7/2020,20371
+Brazil,12/8/2020,51088
+Brazil,12/9/2020,53453
+Brazil,12/10/2020,53347
+Brazil,12/11/2020,54428
+Brazil,12/12/2020,43900
+Brazil,12/13/2020,21825
+Brazil,12/14/2020,25193
+Brazil,12/15/2020,42889
+Brazil,12/16/2020,70574
+Brazil,12/17/2020,69826
+Brazil,12/18/2020,52544
+Brazil,12/19/2020,50177
+Brazil,12/20/2020,25445
+Brazil,12/21/2020,25019
+Brazil,12/22/2020,55202
+Brazil,12/23/2020,46696
+Brazil,12/24/2020,58428
+Brazil,12/25/2020,24615
+Brazil,12/26/2020,17246
+Brazil,12/27/2020,18479
+Brazil,12/28/2020,20548
+Brazil,12/29/2020,58718
+Brazil,12/30/2020,55649
+Brazil,12/31/2020,56773
+Brazil,1/1/2021,24605
+Brazil,1/2/2021,15827
+Brazil,1/3/2021,17341
+Brazil,1/4/2021,20006
+Brazil,1/5/2021,56648
+Brazil,1/6/2021,63430
+Brazil,1/7/2021,87843
+Brazil,1/8/2021,52035
+Brazil,1/9/2021,62290
+Brazil,1/10/2021,29792
+Brazil,1/11/2021,25822
+Brazil,1/12/2021,64025
+Brazil,1/13/2021,60899
+Brazil,1/14/2021,67758
+Brazil,1/15/2021,69198
+Brazil,1/16/2021,61567
+Brazil,1/17/2021,33040
+Brazil,1/18/2021,23671
+Brazil,1/19/2021,62094
+Brazil,1/20/2021,64385
+Brazil,1/21/2021,59119
+Brazil,1/22/2021,56552
+Brazil,1/23/2021,62334
+Brazil,1/24/2021,28323
+Brazil,1/25/2021,26816
+Brazil,1/26/2021,61963
+Brazil,1/27/2021,63520
+Brazil,1/28/2021,61811
+Brazil,1/29/2021,59826
+Brazil,1/30/2021,58462
+Brazil,1/31/2021,27756
+Brazil,2/1/2021,24591
+Brazil,2/2/2021,54096
+Brazil,2/3/2021,56002
+Brazil,2/4/2021,56873
+Brazil,2/5/2021,50872
+Brazil,2/6/2021,0
+Brazil,2/7/2021,77475
+Brazil,2/8/2021,0
+Brazil,2/9/2021,74925
+Brazil,2/10/2021,59602
+Brazil,2/11/2021,54742
+Brazil,2/12/2021,51546
+Brazil,2/13/2021,44299
+Brazil,2/14/2021,24759
+Brazil,2/15/2021,32197
+Brazil,2/16/2021,55271
+Brazil,2/17/2021,56766
+Brazil,2/18/2021,51879
+Brazil,2/19/2021,53582
+Brazil,2/20/2021,54940
+Brazil,2/21/2021,29026
+Brazil,2/22/2021,26986
+Brazil,2/23/2021,62715
+Brazil,2/24/2021,66588
+Brazil,2/25/2021,65998
+Brazil,2/26/2021,65169
+Brazil,2/27/2021,61602
+Brazil,2/28/2021,34027
+Brazil,3/1/2021,35742
+Brazil,3/2/2021,59925
+Brazil,3/3/2021,71704
+Brazil,3/4/2021,75102
+Brazil,3/5/2021,75495
+Brazil,3/6/2021,69609
+Brazil,3/7/2021,80508
+Brazil,3/8/2021,32321
+Brazil,3/9/2021,70764
+Brazil,3/10/2021,79876
+Brazil,3/11/2021,75412
+Brazil,3/12/2021,85663
+Brazil,3/13/2021,76178
+Brazil,3/14/2021,43812
+Brazil,3/15/2021,36239
+Brazil,3/16/2021,83926
+Brazil,3/17/2021,90303
+Brazil,3/18/2021,86982
+Brazil,3/19/2021,90570
+Brazil,3/20/2021,79069
+Brazil,3/21/2021,47774
+Brazil,3/22/2021,49293
+Brazil,3/23/2021,82493
+Brazil,3/24/2021,89992
+Brazil,3/25/2021,100158
+Brazil,3/26/2021,84245
+Brazil,3/27/2021,85948
+Brazil,3/28/2021,44326
+Brazil,3/29/2021,38927
+Brazil,3/30/2021,84494
+Brazil,3/31/2021,90638
+Brazil,4/1/2021,91097
+Brazil,4/2/2021,70238
+Brazil,4/3/2021,43515
+Brazil,4/4/2021,31359
+Brazil,4/5/2021,28645
+Brazil,4/6/2021,86979
+Brazil,4/7/2021,92625
+Brazil,4/8/2021,86652
+Brazil,4/9/2021,93317
+Brazil,4/10/2021,71832
+Brazil,4/11/2021,37017
+Brazil,4/12/2021,35785
+Brazil,4/13/2021,82186
+Brazil,4/14/2021,73513
+Brazil,4/15/2021,73174
+Brazil,4/16/2021,85774
+Brazil,4/17/2021,67636
+Brazil,4/18/2021,42980
+Brazil,4/19/2021,30624
+Brazil,4/20/2021,69381
+Brazil,4/21/2021,79719
+Brazil,4/22/2021,45178
+Brazil,4/23/2021,69105
+Brazil,4/24/2021,71137
+Brazil,4/25/2021,32572
+Brazil,4/26/2021,28636
+Brazil,4/27/2021,72140
+Brazil,4/28/2021,79726
+Brazil,4/29/2021,69389
+Brazil,4/30/2021,68333
+Brazil,5/1/2021,66964
+Brazil,5/2/2021,28935
+Brazil,5/3/2021,24619
+Brazil,5/4/2021,77359
+Brazil,5/5/2021,73295
+Brazil,5/6/2021,73380
+Brazil,5/7/2021,78886
+Brazil,5/8/2021,63430
+Brazil,5/9/2021,38911
+Brazil,5/10/2021,25200
+Brazil,5/11/2021,72715
+Brazil,5/12/2021,76692
+Brazil,5/13/2021,74592
+Brazil,5/14/2021,85536
+Brazil,5/15/2021,67009
+Brazil,5/16/2021,40709
+Brazil,5/17/2021,30148
+Brazil,5/18/2021,75445
+Brazil,5/19/2021,79219
+Brazil,5/20/2021,82039
+Brazil,5/21/2021,76855
+Brazil,5/22/2021,76490
+Brazil,5/23/2021,35819
+Brazil,5/24/2021,37498
+Brazil,5/25/2021,73453
+Brazil,5/26/2021,80486
+Brazil,5/27/2021,67467
+Brazil,5/28/2021,49768
+Brazil,5/29/2021,79670
+Brazil,5/30/2021,43520
+Brazil,5/31/2021,30434
+Brazil,6/1/2021,78926
+Brazil,6/2/2021,95601
+Brazil,6/3/2021,83391
+Brazil,6/4/2021,37936
+Brazil,6/5/2021,66017
+Brazil,6/6/2021,39637
+Brazil,6/7/2021,37156
+Brazil,6/8/2021,52911
+Brazil,6/9/2021,85748
+Brazil,6/10/2021,88092
+Brazil,6/11/2021,85149
+Brazil,6/12/2021,78700
+Brazil,6/13/2021,37948
+China,1/22/2020,
+China,1/23/2020,93
+China,1/24/2020,277
+China,1/25/2020,483
+China,1/26/2020,666
+China,1/27/2020,802
+China,1/28/2020,2632
+China,1/29/2020,576
+China,1/30/2020,2054
+China,1/31/2020,1659
+China,2/1/2020,2088
+China,2/2/2020,4737
+China,2/3/2020,3086
+China,2/4/2020,3989
+China,2/5/2020,3729
+China,2/6/2020,3144
+China,2/7/2020,3522
+China,2/8/2020,2703
+China,2/9/2020,3012
+China,2/10/2020,2516
+China,2/11/2020,2021
+China,2/12/2020,372
+China,2/13/2020,15133
+China,2/14/2020,6460
+China,2/15/2020,2055
+China,2/16/2020,2099
+China,2/17/2020,1918
+China,2/18/2020,1775
+China,2/19/2020,407
+China,2/20/2020,453
+China,2/21/2020,473
+China,2/22/2020,1450
+China,2/23/2020,16
+China,2/24/2020,214
+China,2/25/2020,508
+China,2/26/2020,405
+China,2/27/2020,433
+China,2/28/2020,326
+China,2/29/2020,427
+China,3/1/2020,575
+China,3/2/2020,200
+China,3/3/2020,125
+China,3/4/2020,120
+China,3/5/2020,151
+China,3/6/2020,151
+China,3/7/2020,79
+China,3/8/2020,47
+China,3/9/2020,36
+China,3/10/2020,22
+China,3/11/2020,28
+China,3/12/2020,8
+China,3/13/2020,8
+China,3/14/2020,26
+China,3/15/2020,21
+China,3/16/2020,20
+China,3/17/2020,18
+China,3/18/2020,25
+China,3/19/2020,27
+China,3/20/2020,46
+China,3/21/2020,38
+China,3/22/2020,86
+China,3/23/2020,24
+China,3/24/2020,63
+China,3/25/2020,46
+China,3/26/2020,78
+China,3/27/2020,49
+China,3/28/2020,60
+China,3/29/2020,43
+China,3/30/2020,35
+China,3/31/2020,49
+China,4/1/2020,31
+China,4/2/2020,34
+China,4/3/2020,36
+China,4/4/2020,15
+China,4/5/2020,31
+China,4/6/2020,39
+China,4/7/2020,32
+China,4/8/2020,66
+China,4/9/2020,61
+China,4/10/2020,42
+China,4/11/2020,62
+China,4/12/2020,116
+China,4/13/2020,74
+China,4/14/2020,90
+China,4/15/2020,45
+China,4/16/2020,47
+China,4/17/2020,353
+China,4/18/2020,24
+China,4/19/2020,17
+China,4/20/2020,12
+China,4/21/2020,32
+China,4/22/2020,11
+China,4/23/2020,14
+China,4/24/2020,15
+China,4/25/2020,8
+China,4/26/2020,3
+China,4/27/2020,6
+China,4/28/2020,22
+China,4/29/2020,4
+China,4/30/2020,12
+China,5/1/2020,1
+China,5/2/2020,0
+China,5/3/2020,5
+China,5/4/2020,1
+China,5/5/2020,2
+China,5/6/2020,2
+China,5/7/2020,1
+China,5/8/2020,1
+China,5/9/2020,14
+China,5/10/2020,17
+China,5/11/2020,1
+China,5/12/2020,7
+China,5/13/2020,3
+China,5/14/2020,4
+China,5/15/2020,8
+China,5/16/2020,6
+China,5/17/2020,7
+China,5/18/2020,9
+China,5/19/2020,0
+China,5/20/2020,0
+China,5/21/2020,0
+China,5/22/2020,8
+China,5/23/2020,3
+China,5/24/2020,11
+China,5/25/2020,7
+China,5/26/2020,1
+China,5/27/2020,2
+China,5/28/2020,0
+China,5/29/2020,4
+China,5/30/2020,2
+China,5/31/2020,16
+China,6/1/2020,5
+China,6/2/2020,1
+China,6/3/2020,-1
+China,6/4/2020,5
+China,6/5/2020,3
+China,6/6/2020,6
+China,6/7/2020,4
+China,6/8/2020,3
+China,6/9/2020,3
+China,6/10/2020,11
+China,6/11/2020,7
+China,6/12/2020,11
+China,6/13/2020,57
+China,6/14/2020,49
+China,6/15/2020,40
+China,6/16/2020,44
+China,6/17/2020,28
+China,6/18/2020,32
+China,6/19/2020,0
+China,6/20/2020,55
+China,6/21/2020,16
+China,6/22/2020,22
+China,6/23/2020,13
+China,6/24/2020,18
+China,6/25/2020,14
+China,6/26/2020,21
+China,6/27/2020,17
+China,6/28/2020,12
+China,6/29/2020,19
+China,6/30/2020,3
+China,7/1/2020,3
+China,7/2/2020,5
+China,7/3/2020,3
+China,7/4/2020,8
+China,7/5/2020,4
+China,7/6/2020,1
+China,7/7/2020,14
+China,7/8/2020,9
+China,7/9/2020,0
+China,7/10/2020,0
+China,7/11/2020,13
+China,7/12/2020,8
+China,7/13/2020,0
+China,7/14/2020,9
+China,7/15/2020,1
+China,7/16/2020,14
+China,7/17/2020,17
+China,7/18/2020,16
+China,7/19/2020,21
+China,7/20/2020,11
+China,7/21/2020,13
+China,7/22/2020,25
+China,7/23/2020,21
+China,7/24/2020,34
+China,7/25/2020,46
+China,7/26/2020,61
+China,7/27/2020,68
+China,7/28/2020,101
+China,7/29/2020,105
+China,7/30/2020,127
+China,7/31/2020,45
+China,8/1/2020,48
+China,8/2/2020,43
+China,8/3/2020,36
+China,8/4/2020,27
+China,8/5/2020,37
+China,8/6/2020,37
+China,8/7/2020,31
+China,8/8/2020,23
+China,8/9/2020,49
+China,8/10/2020,44
+China,8/11/2020,19
+China,8/12/2020,25
+China,8/13/2020,30
+China,8/14/2020,22
+China,8/15/2020,19
+China,8/16/2020,22
+China,8/17/2020,22
+China,8/18/2020,17
+China,8/19/2020,7
+China,8/20/2020,22
+China,8/21/2020,22
+China,8/22/2020,12
+China,8/23/2020,16
+China,8/24/2020,14
+China,8/25/2020,15
+China,8/26/2020,8
+China,8/27/2020,9
+China,8/28/2020,9
+China,8/29/2020,9
+China,8/30/2020,17
+China,8/31/2020,10
+China,9/1/2020,7
+China,9/2/2020,12
+China,9/3/2020,25
+China,9/4/2020,10
+China,9/5/2020,10
+China,9/6/2020,12
+China,9/7/2020,9
+China,9/8/2020,3
+China,9/9/2020,7
+China,9/10/2020,15
+China,9/11/2020,6
+China,9/12/2020,10
+China,9/13/2020,10
+China,9/14/2020,8
+China,9/15/2020,12
+China,9/16/2020,9
+China,9/17/2020,32
+China,9/18/2020,14
+China,9/19/2020,10
+China,9/20/2020,12
+China,9/21/2020,6
+China,9/22/2020,10
+China,9/23/2020,7
+China,9/24/2020,8
+China,9/25/2020,15
+China,9/26/2020,14
+China,9/27/2020,21
+China,9/28/2020,12
+China,9/29/2020,19
+China,9/30/2020,9
+China,10/1/2020,12
+China,10/2/2020,10
+China,10/3/2020,16
+China,10/4/2020,20
+China,10/5/2020,12
+China,10/6/2020,7
+China,10/7/2020,9
+China,10/8/2020,23
+China,10/9/2020,15
+China,10/10/2020,21
+China,10/11/2020,27
+China,10/12/2020,7
+China,10/13/2020,20
+China,10/14/2020,11
+China,10/15/2020,24
+China,10/16/2020,13
+China,10/17/2020,13
+China,10/18/2020,13
+China,10/19/2020,19
+China,10/20/2020,11
+China,10/21/2020,14
+China,10/22/2020,18
+China,10/23/2020,31
+China,10/24/2020,15
+China,10/25/2020,17
+China,10/26/2020,16
+China,10/27/2020,42
+China,10/28/2020,47
+China,10/29/2020,25
+China,10/30/2020,33
+China,10/31/2020,24
+China,11/1/2020,24
+China,11/2/2020,49
+China,11/3/2020,17
+China,11/4/2020,28
+China,11/5/2020,36
+China,11/6/2020,33
+China,11/7/2020,28
+China,11/8/2020,33
+China,11/9/2020,22
+China,11/10/2020,17
+China,11/11/2020,15
+China,11/12/2020,8
+China,11/13/2020,18
+China,11/14/2020,13
+China,11/15/2020,8
+China,11/16/2020,14
+China,11/17/2020,9
+China,11/18/2020,12
+China,11/19/2020,17
+China,11/20/2020,16
+China,11/21/2020,17
+China,11/22/2020,11
+China,11/23/2020,22
+China,11/24/2020,5
+China,11/25/2020,21
+China,11/26/2020,5
+China,11/27/2020,6
+China,11/28/2020,11
+China,11/29/2020,18
+China,11/30/2020,12
+China,12/1/2020,9
+China,12/2/2020,17
+China,12/3/2020,18
+China,12/4/2020,15
+China,12/5/2020,18
+China,12/6/2020,15
+China,12/7/2020,15
+China,12/8/2020,12
+China,12/9/2020,12
+China,12/10/2020,15
+China,12/11/2020,13
+China,12/12/2020,24
+China,12/13/2020,16
+China,12/14/2020,17
+China,12/15/2020,12
+China,12/16/2020,7
+China,12/17/2020,12
+China,12/18/2020,17
+China,12/19/2020,23
+China,12/20/2020,23
+China,12/21/2020,15
+China,12/22/2020,15
+China,12/23/2020,17
+China,12/24/2020,14
+China,12/25/2020,20
+China,12/26/2020,22
+China,12/27/2020,21
+China,12/28/2020,27
+China,12/29/2020,24
+China,12/30/2020,25
+China,12/31/2020,19
+China,1/1/2021,18
+China,1/2/2021,28
+China,1/3/2021,33
+China,1/4/2021,33
+China,1/5/2021,32
+China,1/6/2021,63
+China,1/7/2021,53
+China,1/8/2021,33
+China,1/9/2021,69
+China,1/10/2021,103
+China,1/11/2021,55
+China,1/12/2021,115
+China,1/13/2021,138
+China,1/14/2021,144
+China,1/15/2021,130
+China,1/16/2021,109
+China,1/17/2021,109
+China,1/18/2021,118
+China,1/19/2021,103
+China,1/20/2021,144
+China,1/21/2021,111
+China,1/22/2021,100
+China,1/23/2021,80
+China,1/24/2021,124
+China,1/25/2021,82
+China,1/26/2021,75
+China,1/27/2021,54
+China,1/28/2021,52
+China,1/29/2021,52
+China,1/30/2021,92
+China,1/31/2021,42
+China,2/1/2021,30
+China,2/2/2021,25
+China,2/3/2021,30
+China,2/4/2021,20
+China,2/5/2021,13
+China,2/6/2021,11
+China,2/7/2021,14
+China,2/8/2021,14
+China,2/9/2021,14
+China,2/10/2021,2
+China,2/11/2021,12
+China,2/12/2021,8
+China,2/13/2021,7
+China,2/14/2021,9
+China,2/15/2021,16
+China,2/16/2021,7
+China,2/17/2021,11
+China,2/18/2021,10
+China,2/19/2021,8
+China,2/20/2021,7
+China,2/21/2021,11
+China,2/22/2021,10
+China,2/23/2021,12
+China,2/24/2021,7
+China,2/25/2021,6
+China,2/26/2021,10
+China,2/27/2021,6
+China,2/28/2021,19
+China,3/1/2021,11
+China,3/2/2021,10
+China,3/3/2021,10
+China,3/4/2021,9
+China,3/5/2021,10
+China,3/6/2021,13
+China,3/7/2021,19
+China,3/8/2021,8
+China,3/9/2021,5
+China,3/10/2021,11
+China,3/11/2021,9
+China,3/12/2021,7
+China,3/13/2021,10
+China,3/14/2021,5
+China,3/15/2021,13
+China,3/16/2021,4
+China,3/17/2021,6
+China,3/18/2021,11
+China,3/19/2021,4
+China,3/20/2021,12
+China,3/21/2021,7
+China,3/22/2021,9
+China,3/23/2021,10
+China,3/24/2021,11
+China,3/25/2021,11
+China,3/26/2021,12
+China,3/27/2021,11
+China,3/28/2021,12
+China,3/29/2021,8
+China,3/30/2021,11
+China,3/31/2021,16
+China,4/1/2021,9
+China,4/2/2021,26
+China,4/3/2021,20
+China,4/4/2021,33
+China,4/5/2021,24
+China,4/6/2021,12
+China,4/7/2021,25
+China,4/8/2021,21
+China,4/9/2021,14
+China,4/10/2021,10
+China,4/11/2021,16
+China,4/12/2021,9
+China,4/13/2021,12
+China,4/14/2021,10
+China,4/15/2021,11
+China,4/16/2021,15
+China,4/17/2021,16
+China,4/18/2021,11
+China,4/19/2021,10
+China,4/20/2021,21
+China,4/21/2021,6
+China,4/22/2021,19
+China,4/23/2021,9
+China,4/24/2021,13
+China,4/25/2021,11
+China,4/26/2021,11
+China,4/27/2021,12
+China,4/28/2021,20
+China,4/29/2021,13
+China,4/30/2021,16
+China,5/1/2021,15
+China,5/2/2021,11
+China,5/3/2021,17
+China,5/4/2021,7
+China,5/5/2021,5
+China,5/6/2021,13
+China,5/7/2021,7
+China,5/8/2021,12
+China,5/9/2021,11
+China,5/10/2021,14
+China,5/11/2021,16
+China,5/12/2021,9
+China,5/13/2021,7
+China,5/14/2021,14
+China,5/15/2021,18
+China,5/16/2021,26
+China,5/17/2021,22
+China,5/18/2021,14
+China,5/19/2021,12
+China,5/20/2021,24
+China,5/21/2021,10
+China,5/22/2021,19
+China,5/23/2021,18
+China,5/24/2021,16
+China,5/25/2021,13
+China,5/26/2021,19
+China,5/27/2021,7
+China,5/28/2021,16
+China,5/29/2021,11
+China,5/30/2021,27
+China,5/31/2021,23
+China,6/1/2021,24
+China,6/2/2021,24
+China,6/3/2021,24
+China,6/4/2021,24
+China,6/5/2021,30
+China,6/6/2021,19
+China,6/7/2021,33
+China,6/8/2021,16
+China,6/9/2021,22
+China,6/10/2021,22
+China,6/11/2021,35
+China,6/12/2021,34
+China,6/13/2021,23
+India,1/30/2020,1
+India,1/31/2020,0
+India,2/1/2020,0
+India,2/2/2020,1
+India,2/3/2020,1
+India,2/4/2020,0
+India,2/5/2020,0
+India,2/6/2020,0
+India,2/7/2020,0
+India,2/8/2020,0
+India,2/9/2020,0
+India,2/10/2020,0
+India,2/11/2020,0
+India,2/12/2020,0
+India,2/13/2020,0
+India,2/14/2020,0
+India,2/15/2020,0
+India,2/16/2020,0
+India,2/17/2020,0
+India,2/18/2020,0
+India,2/19/2020,0
+India,2/20/2020,0
+India,2/21/2020,0
+India,2/22/2020,0
+India,2/23/2020,0
+India,2/24/2020,0
+India,2/25/2020,0
+India,2/26/2020,0
+India,2/27/2020,0
+India,2/28/2020,0
+India,2/29/2020,0
+India,3/1/2020,0
+India,3/2/2020,2
+India,3/3/2020,0
+India,3/4/2020,23
+India,3/5/2020,2
+India,3/6/2020,1
+India,3/7/2020,3
+India,3/8/2020,5
+India,3/9/2020,4
+India,3/10/2020,13
+India,3/11/2020,6
+India,3/12/2020,11
+India,3/13/2020,9
+India,3/14/2020,20
+India,3/15/2020,11
+India,3/16/2020,6
+India,3/17/2020,23
+India,3/18/2020,14
+India,3/19/2020,38
+India,3/20/2020,50
+India,3/21/2020,86
+India,3/22/2020,66
+India,3/23/2020,103
+India,3/24/2020,37
+India,3/25/2020,121
+India,3/26/2020,70
+India,3/27/2020,160
+India,3/28/2020,100
+India,3/29/2020,37
+India,3/30/2020,227
+India,3/31/2020,146
+India,4/1/2020,601
+India,4/2/2020,545
+India,4/3/2020,24
+India,4/4/2020,515
+India,4/5/2020,506
+India,4/6/2020,1190
+India,4/7/2020,533
+India,4/8/2020,605
+India,4/9/2020,809
+India,4/10/2020,873
+India,4/11/2020,848
+India,4/12/2020,759
+India,4/13/2020,1248
+India,4/14/2020,1034
+India,4/15/2020,835
+India,4/16/2020,1108
+India,4/17/2020,922
+India,4/18/2020,1370
+India,4/19/2020,1893
+India,4/20/2020,924
+India,4/21/2020,1541
+India,4/22/2020,1290
+India,4/23/2020,1707
+India,4/24/2020,1453
+India,4/25/2020,1753
+India,4/26/2020,1607
+India,4/27/2020,1561
+India,4/28/2020,1873
+India,4/29/2020,1738
+India,4/30/2020,1801
+India,5/1/2020,2394
+India,5/2/2020,2442
+India,5/3/2020,2806
+India,5/4/2020,3932
+India,5/5/2020,2963
+India,5/6/2020,3587
+India,5/7/2020,3364
+India,5/8/2020,3344
+India,5/9/2020,3113
+India,5/10/2020,4353
+India,5/11/2020,3607
+India,5/12/2020,3524
+India,5/13/2020,3763
+India,5/14/2020,3942
+India,5/15/2020,3787
+India,5/16/2020,4864
+India,5/17/2020,5050
+India,5/18/2020,4630
+India,5/19/2020,6147
+India,5/20/2020,5553
+India,5/21/2020,6198
+India,5/22/2020,6568
+India,5/23/2020,6629
+India,5/24/2020,7113
+India,5/25/2020,6414
+India,5/26/2020,5843
+India,5/27/2020,7293
+India,5/28/2020,7300
+India,5/29/2020,8105
+India,5/30/2020,8336
+India,5/31/2020,8782
+India,6/1/2020,7761
+India,6/2/2020,8821
+India,6/3/2020,9633
+India,6/4/2020,9889
+India,6/5/2020,9471
+India,6/6/2020,10438
+India,6/7/2020,10864
+India,6/8/2020,8442
+India,6/9/2020,10218
+India,6/10/2020,10459
+India,6/11/2020,10930
+India,6/12/2020,11458
+India,6/13/2020,11929
+India,6/14/2020,11502
+India,6/15/2020,10667
+India,6/16/2020,10974
+India,6/17/2020,12881
+India,6/18/2020,13586
+India,6/19/2020,14516
+India,6/20/2020,15403
+India,6/21/2020,14831
+India,6/22/2020,14933
+India,6/23/2020,15968
+India,6/24/2020,16922
+India,6/25/2020,17296
+India,6/26/2020,18552
+India,6/27/2020,19906
+India,6/28/2020,19459
+India,6/29/2020,18522
+India,6/30/2020,18641
+India,7/1/2020,19160
+India,7/2/2020,20903
+India,7/3/2020,22771
+India,7/4/2020,24850
+India,7/5/2020,24248
+India,7/6/2020,22251
+India,7/7/2020,22753
+India,7/8/2020,24879
+India,7/9/2020,26506
+India,7/10/2020,27114
+India,7/11/2020,28606
+India,7/12/2020,28732
+India,7/13/2020,28498
+India,7/14/2020,29429
+India,7/15/2020,32676
+India,7/16/2020,34975
+India,7/17/2020,35252
+India,7/18/2020,38697
+India,7/19/2020,40425
+India,7/20/2020,37132
+India,7/21/2020,37740
+India,7/22/2020,45720
+India,7/23/2020,49310
+India,7/24/2020,48916
+India,7/25/2020,48611
+India,7/26/2020,49981
+India,7/27/2020,44457
+India,7/28/2020,51596
+India,7/29/2020,50294
+India,7/30/2020,52783
+India,7/31/2020,61242
+India,8/1/2020,54735
+India,8/2/2020,52972
+India,8/3/2020,52050
+India,8/4/2020,52509
+India,8/5/2020,56282
+India,8/6/2020,62538
+India,8/7/2020,61537
+India,8/8/2020,64399
+India,8/9/2020,62064
+India,8/10/2020,53601
+India,8/11/2020,60963
+India,8/12/2020,66999
+India,8/13/2020,64553
+India,8/14/2020,64732
+India,8/15/2020,64030
+India,8/16/2020,57711
+India,8/17/2020,55018
+India,8/18/2020,64572
+India,8/19/2020,69672
+India,8/20/2020,68900
+India,8/21/2020,69876
+India,8/22/2020,69239
+India,8/23/2020,61408
+India,8/24/2020,60975
+India,8/25/2020,57224
+India,8/26/2020,85687
+India,8/27/2020,77266
+India,8/28/2020,76472
+India,8/29/2020,78761
+India,8/30/2020,78512
+India,8/31/2020,69921
+India,9/1/2020,78357
+India,9/2/2020,83883
+India,9/3/2020,83341
+India,9/4/2020,86432
+India,9/5/2020,90632
+India,9/6/2020,90802
+India,9/7/2020,75809
+India,9/8/2020,89706
+India,9/9/2020,95735
+India,9/10/2020,96551
+India,9/11/2020,97570
+India,9/12/2020,94372
+India,9/13/2020,92071
+India,9/14/2020,83809
+India,9/15/2020,90123
+India,9/16/2020,97894
+India,9/17/2020,96424
+India,9/18/2020,93337
+India,9/19/2020,92605
+India,9/20/2020,86961
+India,9/21/2020,75083
+India,9/22/2020,83347
+India,9/23/2020,86508
+India,9/24/2020,86052
+India,9/25/2020,85362
+India,9/26/2020,88600
+India,9/27/2020,82170
+India,9/28/2020,70589
+India,9/29/2020,80472
+India,9/30/2020,86821
+India,10/1/2020,81484
+India,10/2/2020,79476
+India,10/3/2020,75829
+India,10/4/2020,74442
+India,10/5/2020,61267
+India,10/6/2020,72049
+India,10/7/2020,78524
+India,10/8/2020,70496
+India,10/9/2020,73272
+India,10/10/2020,74383
+India,10/11/2020,66732
+India,10/12/2020,55342
+India,10/13/2020,63509
+India,10/14/2020,67708
+India,10/15/2020,63371
+India,10/16/2020,62212
+India,10/17/2020,61871
+India,10/18/2020,55722
+India,10/19/2020,46790
+India,10/20/2020,54044
+India,10/21/2020,55839
+India,10/22/2020,54366
+India,10/23/2020,53370
+India,10/24/2020,50129
+India,10/25/2020,45148
+India,10/26/2020,36470
+India,10/27/2020,43893
+India,10/28/2020,49881
+India,10/29/2020,48648
+India,10/30/2020,48268
+India,10/31/2020,46963
+India,11/1/2020,45231
+India,11/2/2020,38310
+India,11/3/2020,46253
+India,11/4/2020,50210
+India,11/5/2020,47638
+India,11/6/2020,50356
+India,11/7/2020,45674
+India,11/8/2020,45903
+India,11/9/2020,38073
+India,11/10/2020,44281
+India,11/11/2020,47905
+India,11/12/2020,44879
+India,11/13/2020,44684
+India,11/14/2020,41100
+India,11/15/2020,30548
+India,11/16/2020,29163
+India,11/17/2020,38617
+India,11/18/2020,45576
+India,11/19/2020,45882
+India,11/20/2020,46232
+India,11/21/2020,45209
+India,11/22/2020,44059
+India,11/23/2020,37975
+India,11/24/2020,44376
+India,11/25/2020,44489
+India,11/26/2020,43082
+India,11/27/2020,41322
+India,11/28/2020,41810
+India,11/29/2020,38772
+India,11/30/2020,31118
+India,12/1/2020,36604
+India,12/2/2020,35551
+India,12/3/2020,36595
+India,12/4/2020,36652
+India,12/5/2020,36011
+India,12/6/2020,32981
+India,12/7/2020,26567
+India,12/8/2020,32080
+India,12/9/2020,31521
+India,12/10/2020,29373
+India,12/11/2020,30031
+India,12/12/2020,30254
+India,12/13/2020,27071
+India,12/14/2020,22065
+India,12/15/2020,26382
+India,12/16/2020,24010
+India,12/17/2020,22890
+India,12/18/2020,25152
+India,12/19/2020,26624
+India,12/20/2020,24337
+India,12/21/2020,19556
+India,12/22/2020,23950
+India,12/23/2020,24712
+India,12/24/2020,23067
+India,12/25/2020,22273
+India,12/26/2020,18732
+India,12/27/2020,20021
+India,12/28/2020,16432
+India,12/29/2020,20549
+India,12/30/2020,21822
+India,12/31/2020,0
+India,1/1/2021,20035
+India,1/2/2021,37256
+India,1/3/2021,16504
+India,1/4/2021,16375
+India,1/5/2021,18088
+India,1/6/2021,20346
+India,1/7/2021,18139
+India,1/8/2021,0
+India,1/9/2021,36867
+India,1/10/2021,16311
+India,1/11/2021,12584
+India,1/12/2021,15968
+India,1/13/2021,16946
+India,1/14/2021,15590
+India,1/15/2021,15158
+India,1/16/2021,15144
+India,1/17/2021,13788
+India,1/18/2021,10050
+India,1/19/2021,13816
+India,1/20/2021,15244
+India,1/21/2021,14545
+India,1/22/2021,14256
+India,1/23/2021,14849
+India,1/24/2021,13203
+India,1/25/2021,9102
+India,1/26/2021,12689
+India,1/27/2021,11666
+India,1/28/2021,18855
+India,1/29/2021,13082
+India,1/30/2021,13044
+India,1/31/2021,11436
+India,2/1/2021,8635
+India,2/2/2021,11039
+India,2/3/2021,12899
+India,2/4/2021,12408
+India,2/5/2021,11713
+India,2/6/2021,12059
+India,2/7/2021,11831
+India,2/8/2021,9110
+India,2/9/2021,11067
+India,2/10/2021,12923
+India,2/11/2021,9309
+India,2/12/2021,12143
+India,2/13/2021,12194
+India,2/14/2021,11649
+India,2/15/2021,9121
+India,2/16/2021,11610
+India,2/17/2021,12881
+India,2/18/2021,13193
+India,2/19/2021,13993
+India,2/20/2021,14264
+India,2/21/2021,14199
+India,2/22/2021,10584
+India,2/23/2021,13742
+India,2/24/2021,16738
+India,2/25/2021,16577
+India,2/26/2021,16488
+India,2/27/2021,16752
+India,2/28/2021,15510
+India,3/1/2021,12286
+India,3/2/2021,14989
+India,3/3/2021,17407
+India,3/4/2021,16838
+India,3/5/2021,18284
+India,3/6/2021,18754
+India,3/7/2021,18599
+India,3/8/2021,15388
+India,3/9/2021,17921
+India,3/10/2021,22854
+India,3/11/2021,23285
+India,3/12/2021,24882
+India,3/13/2021,25320
+India,3/14/2021,26291
+India,3/15/2021,24492
+India,3/16/2021,28903
+India,3/17/2021,35871
+India,3/18/2021,39726
+India,3/19/2021,40953
+India,3/20/2021,43846
+India,3/21/2021,46951
+India,3/22/2021,40715
+India,3/23/2021,47262
+India,3/24/2021,53476
+India,3/25/2021,59118
+India,3/26/2021,62258
+India,3/27/2021,62714
+India,3/28/2021,68020
+India,3/29/2021,56211
+India,3/30/2021,53480
+India,3/31/2021,72330
+India,4/1/2021,81466
+India,4/2/2021,89129
+India,4/3/2021,93249
+India,4/4/2021,103558
+India,4/5/2021,96982
+India,4/6/2021,115736
+India,4/7/2021,126789
+India,4/8/2021,131968
+India,4/9/2021,145384
+India,4/10/2021,152879
+India,4/11/2021,168912
+India,4/12/2021,161736
+India,4/13/2021,184372
+India,4/14/2021,200739
+India,4/15/2021,217353
+India,4/16/2021,234692
+India,4/17/2021,261394
+India,4/18/2021,273802
+India,4/19/2021,259167
+India,4/20/2021,295158
+India,4/21/2021,314644
+India,4/22/2021,332921
+India,4/23/2021,346786
+India,4/24/2021,349691
+India,4/25/2021,352991
+India,4/26/2021,323023
+India,4/27/2021,360927
+India,4/28/2021,379308
+India,4/29/2021,386555
+India,4/30/2021,401993
+India,5/1/2021,392488
+India,5/2/2021,368060
+India,5/3/2021,357316
+India,5/4/2021,382146
+India,5/5/2021,412431
+India,5/6/2021,414188
+India,5/7/2021,401078
+India,5/8/2021,403405
+India,5/9/2021,366494
+India,5/10/2021,329942
+India,5/11/2021,348421
+India,5/12/2021,362727
+India,5/13/2021,343144
+India,5/14/2021,326098
+India,5/15/2021,311170
+India,5/16/2021,281386
+India,5/17/2021,263533
+India,5/18/2021,267334
+India,5/19/2021,276110
+India,5/20/2021,259551
+India,5/21/2021,257299
+India,5/22/2021,240842
+India,5/23/2021,222315
+India,5/24/2021,196427
+India,5/25/2021,208921
+India,5/26/2021,211298
+India,5/27/2021,186364
+India,5/28/2021,173790
+India,5/29/2021,165553
+India,5/30/2021,152734
+India,5/31/2021,127510
+India,6/1/2021,132788
+India,6/2/2021,134154
+India,6/3/2021,132364
+India,6/4/2021,120529
+India,6/5/2021,114460
+India,6/6/2021,100636
+India,6/7/2021,86498
+India,6/8/2021,92596
+India,6/9/2021,93463
+India,6/10/2021,92291
+India,6/11/2021,84332
+India,6/12/2021,80834
+India,6/13/2021,70421
+Indonesia,3/2/2020,2
+Indonesia,3/3/2020,0
+Indonesia,3/4/2020,0
+Indonesia,3/5/2020,0
+Indonesia,3/6/2020,2
+Indonesia,3/7/2020,0
+Indonesia,3/8/2020,2
+Indonesia,3/9/2020,13
+Indonesia,3/10/2020,8
+Indonesia,3/11/2020,7
+Indonesia,3/12/2020,0
+Indonesia,3/13/2020,35
+Indonesia,3/14/2020,27
+Indonesia,3/15/2020,21
+Indonesia,3/16/2020,17
+Indonesia,3/17/2020,38
+Indonesia,3/18/2020,55
+Indonesia,3/19/2020,84
+Indonesia,3/20/2020,58
+Indonesia,3/21/2020,81
+Indonesia,3/22/2020,64
+Indonesia,3/23/2020,65
+Indonesia,3/24/2020,107
+Indonesia,3/25/2020,104
+Indonesia,3/26/2020,103
+Indonesia,3/27/2020,153
+Indonesia,3/28/2020,109
+Indonesia,3/29/2020,130
+Indonesia,3/30/2020,129
+Indonesia,3/31/2020,114
+Indonesia,4/1/2020,149
+Indonesia,4/2/2020,113
+Indonesia,4/3/2020,196
+Indonesia,4/4/2020,106
+Indonesia,4/5/2020,181
+Indonesia,4/6/2020,218
+Indonesia,4/7/2020,247
+Indonesia,4/8/2020,218
+Indonesia,4/9/2020,337
+Indonesia,4/10/2020,219
+Indonesia,4/11/2020,330
+Indonesia,4/12/2020,399
+Indonesia,4/13/2020,316
+Indonesia,4/14/2020,282
+Indonesia,4/15/2020,297
+Indonesia,4/16/2020,380
+Indonesia,4/17/2020,407
+Indonesia,4/18/2020,325
+Indonesia,4/19/2020,327
+Indonesia,4/20/2020,185
+Indonesia,4/21/2020,375
+Indonesia,4/22/2020,283
+Indonesia,4/23/2020,357
+Indonesia,4/24/2020,436
+Indonesia,4/25/2020,396
+Indonesia,4/26/2020,275
+Indonesia,4/27/2020,214
+Indonesia,4/28/2020,415
+Indonesia,4/29/2020,260
+Indonesia,4/30/2020,347
+Indonesia,5/1/2020,433
+Indonesia,5/2/2020,292
+Indonesia,5/3/2020,349
+Indonesia,5/4/2020,395
+Indonesia,5/5/2020,484
+Indonesia,5/6/2020,367
+Indonesia,5/7/2020,338
+Indonesia,5/8/2020,336
+Indonesia,5/9/2020,533
+Indonesia,5/10/2020,387
+Indonesia,5/11/2020,233
+Indonesia,5/12/2020,484
+Indonesia,5/13/2020,689
+Indonesia,5/14/2020,568
+Indonesia,5/15/2020,490
+Indonesia,5/16/2020,529
+Indonesia,5/17/2020,489
+Indonesia,5/18/2020,496
+Indonesia,5/19/2020,486
+Indonesia,5/20/2020,693
+Indonesia,5/21/2020,973
+Indonesia,5/22/2020,634
+Indonesia,5/23/2020,949
+Indonesia,5/24/2020,526
+Indonesia,5/25/2020,479
+Indonesia,5/26/2020,415
+Indonesia,5/27/2020,686
+Indonesia,5/28/2020,687
+Indonesia,5/29/2020,678
+Indonesia,5/30/2020,557
+Indonesia,5/31/2020,700
+Indonesia,6/1/2020,467
+Indonesia,6/2/2020,609
+Indonesia,6/3/2020,684
+Indonesia,6/4/2020,585
+Indonesia,6/5/2020,703
+Indonesia,6/6/2020,993
+Indonesia,6/7/2020,672
+Indonesia,6/8/2020,847
+Indonesia,6/9/2020,1043
+Indonesia,6/10/2020,1240
+Indonesia,6/11/2020,979
+Indonesia,6/12/2020,1111
+Indonesia,6/13/2020,1014
+Indonesia,6/14/2020,857
+Indonesia,6/15/2020,1017
+Indonesia,6/16/2020,1106
+Indonesia,6/17/2020,1031
+Indonesia,6/18/2020,1331
+Indonesia,6/19/2020,1041
+Indonesia,6/20/2020,1226
+Indonesia,6/21/2020,862
+Indonesia,6/22/2020,954
+Indonesia,6/23/2020,1051
+Indonesia,6/24/2020,1113
+Indonesia,6/25/2020,1178
+Indonesia,6/26/2020,1240
+Indonesia,6/27/2020,1385
+Indonesia,6/28/2020,1198
+Indonesia,6/29/2020,1082
+Indonesia,6/30/2020,1293
+Indonesia,7/1/2020,1385
+Indonesia,7/2/2020,1624
+Indonesia,7/3/2020,1301
+Indonesia,7/4/2020,1447
+Indonesia,7/5/2020,1607
+Indonesia,7/6/2020,1209
+Indonesia,7/7/2020,1268
+Indonesia,7/8/2020,1853
+Indonesia,7/9/2020,2657
+Indonesia,7/10/2020,1611
+Indonesia,7/11/2020,1671
+Indonesia,7/12/2020,1681
+Indonesia,7/13/2020,1282
+Indonesia,7/14/2020,1591
+Indonesia,7/15/2020,1522
+Indonesia,7/16/2020,1574
+Indonesia,7/17/2020,1462
+Indonesia,7/18/2020,1752
+Indonesia,7/19/2020,1639
+Indonesia,7/20/2020,1693
+Indonesia,7/21/2020,1655
+Indonesia,7/22/2020,1882
+Indonesia,7/23/2020,1906
+Indonesia,7/24/2020,1761
+Indonesia,7/25/2020,1868
+Indonesia,7/26/2020,1492
+Indonesia,7/27/2020,1525
+Indonesia,7/28/2020,1748
+Indonesia,7/29/2020,2381
+Indonesia,7/30/2020,1904
+Indonesia,7/31/2020,2040
+Indonesia,8/1/2020,1560
+Indonesia,8/2/2020,1519
+Indonesia,8/3/2020,1679
+Indonesia,8/4/2020,1922
+Indonesia,8/5/2020,1815
+Indonesia,8/6/2020,1882
+Indonesia,8/7/2020,2473
+Indonesia,8/8/2020,2277
+Indonesia,8/9/2020,1893
+Indonesia,8/10/2020,1687
+Indonesia,8/11/2020,1693
+Indonesia,8/12/2020,1942
+Indonesia,8/13/2020,2098
+Indonesia,8/14/2020,2307
+Indonesia,8/15/2020,2345
+Indonesia,8/16/2020,2081
+Indonesia,8/17/2020,1821
+Indonesia,8/18/2020,1673
+Indonesia,8/19/2020,1902
+Indonesia,8/20/2020,2266
+Indonesia,8/21/2020,2197
+Indonesia,8/22/2020,2090
+Indonesia,8/23/2020,2037
+Indonesia,8/24/2020,1877
+Indonesia,8/25/2020,2447
+Indonesia,8/26/2020,2306
+Indonesia,8/27/2020,2719
+Indonesia,8/28/2020,3003
+Indonesia,8/29/2020,3308
+Indonesia,8/30/2020,2858
+Indonesia,8/31/2020,2743
+Indonesia,9/1/2020,2775
+Indonesia,9/2/2020,3075
+Indonesia,9/3/2020,3622
+Indonesia,9/4/2020,3269
+Indonesia,9/5/2020,3128
+Indonesia,9/6/2020,3444
+Indonesia,9/7/2020,2880
+Indonesia,9/8/2020,3046
+Indonesia,9/9/2020,3307
+Indonesia,9/10/2020,3861
+Indonesia,9/11/2020,3737
+Indonesia,9/12/2020,3806
+Indonesia,9/13/2020,3636
+Indonesia,9/14/2020,3141
+Indonesia,9/15/2020,3507
+Indonesia,9/16/2020,3963
+Indonesia,9/17/2020,3635
+Indonesia,9/18/2020,3891
+Indonesia,9/19/2020,4168
+Indonesia,9/20/2020,3989
+Indonesia,9/21/2020,4176
+Indonesia,9/22/2020,4071
+Indonesia,9/23/2020,4465
+Indonesia,9/24/2020,4634
+Indonesia,9/25/2020,4823
+Indonesia,9/26/2020,4494
+Indonesia,9/27/2020,3874
+Indonesia,9/28/2020,3509
+Indonesia,9/29/2020,4002
+Indonesia,9/30/2020,4284
+Indonesia,10/1/2020,4174
+Indonesia,10/2/2020,4317
+Indonesia,10/3/2020,4007
+Indonesia,10/4/2020,3992
+Indonesia,10/5/2020,3622
+Indonesia,10/6/2020,4056
+Indonesia,10/7/2020,4538
+Indonesia,10/8/2020,4850
+Indonesia,10/9/2020,4094
+Indonesia,10/10/2020,4294
+Indonesia,10/11/2020,4497
+Indonesia,10/12/2020,3267
+Indonesia,10/13/2020,3906
+Indonesia,10/14/2020,4127
+Indonesia,10/15/2020,4411
+Indonesia,10/16/2020,4301
+Indonesia,10/17/2020,4301
+Indonesia,10/18/2020,4105
+Indonesia,10/19/2020,3373
+Indonesia,10/20/2020,3602
+Indonesia,10/21/2020,4267
+Indonesia,10/22/2020,4432
+Indonesia,10/23/2020,4369
+Indonesia,10/24/2020,4070
+Indonesia,10/25/2020,3732
+Indonesia,10/26/2020,3222
+Indonesia,10/27/2020,3520
+Indonesia,10/28/2020,4029
+Indonesia,10/29/2020,3565
+Indonesia,10/30/2020,2897
+Indonesia,10/31/2020,3143
+Indonesia,11/1/2020,2696
+Indonesia,11/2/2020,2618
+Indonesia,11/3/2020,2973
+Indonesia,11/4/2020,3356
+Indonesia,11/5/2020,4065
+Indonesia,11/6/2020,3778
+Indonesia,11/7/2020,4262
+Indonesia,11/8/2020,3880
+Indonesia,11/9/2020,2853
+Indonesia,11/10/2020,3779
+Indonesia,11/11/2020,3770
+Indonesia,11/12/2020,4173
+Indonesia,11/13/2020,5444
+Indonesia,11/14/2020,5272
+Indonesia,11/15/2020,4106
+Indonesia,11/16/2020,3535
+Indonesia,11/17/2020,3807
+Indonesia,11/18/2020,4265
+Indonesia,11/19/2020,4798
+Indonesia,11/20/2020,4792
+Indonesia,11/21/2020,4998
+Indonesia,11/22/2020,4360
+Indonesia,11/23/2020,4442
+Indonesia,11/24/2020,4192
+Indonesia,11/25/2020,5534
+Indonesia,11/26/2020,4917
+Indonesia,11/27/2020,5828
+Indonesia,11/28/2020,5418
+Indonesia,11/29/2020,6267
+Indonesia,11/30/2020,4617
+Indonesia,12/1/2020,5092
+Indonesia,12/2/2020,5533
+Indonesia,12/3/2020,8369
+Indonesia,12/4/2020,5803
+Indonesia,12/5/2020,6027
+Indonesia,12/6/2020,6089
+Indonesia,12/7/2020,5754
+Indonesia,12/8/2020,5292
+Indonesia,12/9/2020,6058
+Indonesia,12/10/2020,6033
+Indonesia,12/11/2020,6310
+Indonesia,12/12/2020,6388
+Indonesia,12/13/2020,6189
+Indonesia,12/14/2020,5489
+Indonesia,12/15/2020,6120
+Indonesia,12/16/2020,6725
+Indonesia,12/17/2020,7354
+Indonesia,12/18/2020,6689
+Indonesia,12/19/2020,7751
+Indonesia,12/20/2020,6982
+Indonesia,12/21/2020,6848
+Indonesia,12/22/2020,6347
+Indonesia,12/23/2020,7514
+Indonesia,12/24/2020,7199
+Indonesia,12/25/2020,7259
+Indonesia,12/26/2020,6740
+Indonesia,12/27/2020,6528
+Indonesia,12/28/2020,5854
+Indonesia,12/29/2020,7903
+Indonesia,12/30/2020,8002
+Indonesia,12/31/2020,8074
+Indonesia,1/1/2021,8072
+Indonesia,1/2/2021,7203
+Indonesia,1/3/2021,6877
+Indonesia,1/4/2021,6753
+Indonesia,1/5/2021,7445
+Indonesia,1/6/2021,8854
+Indonesia,1/7/2021,9321
+Indonesia,1/8/2021,10617
+Indonesia,1/9/2021,10046
+Indonesia,1/10/2021,9640
+Indonesia,1/11/2021,8692
+Indonesia,1/12/2021,10047
+Indonesia,1/13/2021,11278
+Indonesia,1/14/2021,11557
+Indonesia,1/15/2021,12818
+Indonesia,1/16/2021,14224
+Indonesia,1/17/2021,11287
+Indonesia,1/18/2021,9086
+Indonesia,1/19/2021,10365
+Indonesia,1/20/2021,12568
+Indonesia,1/21/2021,11703
+Indonesia,1/22/2021,13632
+Indonesia,1/23/2021,12191
+Indonesia,1/24/2021,11788
+Indonesia,1/25/2021,9994
+Indonesia,1/26/2021,13094
+Indonesia,1/27/2021,11948
+Indonesia,1/28/2021,13695
+Indonesia,1/29/2021,13802
+Indonesia,1/30/2021,14518
+Indonesia,1/31/2021,12001
+Indonesia,2/1/2021,10994
+Indonesia,2/2/2021,10379
+Indonesia,2/3/2021,11984
+Indonesia,2/4/2021,11434
+Indonesia,2/5/2021,11749
+Indonesia,2/6/2021,12156
+Indonesia,2/7/2021,10827
+Indonesia,2/8/2021,8242
+Indonesia,2/9/2021,8700
+Indonesia,2/10/2021,8776
+Indonesia,2/11/2021,8435
+Indonesia,2/12/2021,9869
+Indonesia,2/13/2021,8844
+Indonesia,2/14/2021,6765
+Indonesia,2/15/2021,6462
+Indonesia,2/16/2021,10029
+Indonesia,2/17/2021,9687
+Indonesia,2/18/2021,9039
+Indonesia,2/19/2021,10614
+Indonesia,2/20/2021,8054
+Indonesia,2/21/2021,7300
+Indonesia,2/22/2021,10180
+Indonesia,2/23/2021,9775
+Indonesia,2/24/2021,7533
+Indonesia,2/25/2021,8493
+Indonesia,2/26/2021,8232
+Indonesia,2/27/2021,6208
+Indonesia,2/28/2021,5560
+Indonesia,3/1/2021,6680
+Indonesia,3/2/2021,5712
+Indonesia,3/3/2021,6808
+Indonesia,3/4/2021,7264
+Indonesia,3/5/2021,6971
+Indonesia,3/6/2021,5767
+Indonesia,3/7/2021,5826
+Indonesia,3/8/2021,6894
+Indonesia,3/9/2021,6389
+Indonesia,3/10/2021,5633
+Indonesia,3/11/2021,5144
+Indonesia,3/12/2021,6412
+Indonesia,3/13/2021,4607
+Indonesia,3/14/2021,4714
+Indonesia,3/15/2021,5589
+Indonesia,3/16/2021,5414
+Indonesia,3/17/2021,6825
+Indonesia,3/18/2021,6570
+Indonesia,3/19/2021,6279
+Indonesia,3/20/2021,5656
+Indonesia,3/21/2021,4396
+Indonesia,3/22/2021,5744
+Indonesia,3/23/2021,5297
+Indonesia,3/24/2021,5227
+Indonesia,3/25/2021,6107
+Indonesia,3/26/2021,4982
+Indonesia,3/27/2021,4461
+Indonesia,3/28/2021,4083
+Indonesia,3/29/2021,5008
+Indonesia,3/30/2021,4682
+Indonesia,3/31/2021,5937
+Indonesia,4/1/2021,6142
+Indonesia,4/2/2021,5325
+Indonesia,4/3/2021,4345
+Indonesia,4/4/2021,6731
+Indonesia,4/5/2021,3712
+Indonesia,4/6/2021,4549
+Indonesia,4/7/2021,4860
+Indonesia,4/8/2021,5504
+Indonesia,4/9/2021,5265
+Indonesia,4/10/2021,4723
+Indonesia,4/11/2021,4127
+Indonesia,4/12/2021,4829
+Indonesia,4/13/2021,5702
+Indonesia,4/14/2021,5656
+Indonesia,4/15/2021,6177
+Indonesia,4/16/2021,5363
+Indonesia,4/17/2021,5041
+Indonesia,4/18/2021,4585
+Indonesia,4/19/2021,4952
+Indonesia,4/20/2021,5549
+Indonesia,4/21/2021,5720
+Indonesia,4/22/2021,6243
+Indonesia,4/23/2021,5436
+Indonesia,4/24/2021,4544
+Indonesia,4/25/2021,4402
+Indonesia,4/26/2021,5944
+Indonesia,4/27/2021,4656
+Indonesia,4/28/2021,5241
+Indonesia,4/29/2021,5833
+Indonesia,4/30/2021,5500
+Indonesia,5/1/2021,4512
+Indonesia,5/2/2021,4394
+Indonesia,5/3/2021,4730
+Indonesia,5/4/2021,4369
+Indonesia,5/5/2021,5285
+Indonesia,5/6/2021,5647
+Indonesia,5/7/2021,6327
+Indonesia,5/8/2021,6130
+Indonesia,5/9/2021,3922
+Indonesia,5/10/2021,4891
+Indonesia,5/11/2021,5021
+Indonesia,5/12/2021,4608
+Indonesia,5/13/2021,3448
+Indonesia,5/14/2021,2633
+Indonesia,5/15/2021,2385
+Indonesia,5/16/2021,3080
+Indonesia,5/17/2021,4295
+Indonesia,5/18/2021,4185
+Indonesia,5/19/2021,4871
+Indonesia,5/20/2021,5797
+Indonesia,5/21/2021,5746
+Indonesia,5/22/2021,5296
+Indonesia,5/23/2021,5280
+Indonesia,5/24/2021,5907
+Indonesia,5/25/2021,5060
+Indonesia,5/26/2021,5034
+Indonesia,5/27/2021,6278
+Indonesia,5/28/2021,5862
+Indonesia,5/29/2021,6565
+Indonesia,5/30/2021,6115
+Indonesia,5/31/2021,5662
+Indonesia,6/1/2021,4824
+Indonesia,6/2/2021,5246
+Indonesia,6/3/2021,5353
+Indonesia,6/4/2021,6486
+Indonesia,6/5/2021,6594
+Indonesia,6/6/2021,5832
+Indonesia,6/7/2021,6993
+Indonesia,6/8/2021,6294
+Indonesia,6/9/2021,7725
+Indonesia,6/10/2021,8892
+Indonesia,6/11/2021,8083
+Indonesia,6/12/2021,7465
+Indonesia,6/13/2021,9868
+Mexico,1/1/2020,
+Mexico,1/2/2020,
+Mexico,1/3/2020,
+Mexico,1/4/2020,
+Mexico,1/5/2020,
+Mexico,1/6/2020,
+Mexico,1/7/2020,
+Mexico,1/8/2020,
+Mexico,1/9/2020,
+Mexico,1/10/2020,
+Mexico,1/11/2020,
+Mexico,1/12/2020,
+Mexico,1/13/2020,
+Mexico,1/14/2020,
+Mexico,1/15/2020,
+Mexico,1/16/2020,
+Mexico,1/17/2020,
+Mexico,1/18/2020,
+Mexico,1/19/2020,
+Mexico,1/20/2020,
+Mexico,1/21/2020,
+Mexico,1/22/2020,
+Mexico,1/23/2020,
+Mexico,1/24/2020,
+Mexico,1/25/2020,
+Mexico,1/26/2020,
+Mexico,1/27/2020,
+Mexico,1/28/2020,
+Mexico,1/29/2020,
+Mexico,1/30/2020,
+Mexico,1/31/2020,
+Mexico,2/1/2020,
+Mexico,2/2/2020,
+Mexico,2/3/2020,
+Mexico,2/4/2020,
+Mexico,2/5/2020,
+Mexico,2/6/2020,
+Mexico,2/7/2020,
+Mexico,2/8/2020,
+Mexico,2/9/2020,
+Mexico,2/10/2020,
+Mexico,2/11/2020,
+Mexico,2/12/2020,
+Mexico,2/13/2020,
+Mexico,2/14/2020,
+Mexico,2/15/2020,
+Mexico,2/16/2020,
+Mexico,2/17/2020,
+Mexico,2/18/2020,
+Mexico,2/19/2020,
+Mexico,2/20/2020,
+Mexico,2/21/2020,
+Mexico,2/22/2020,
+Mexico,2/23/2020,
+Mexico,2/24/2020,
+Mexico,2/25/2020,
+Mexico,2/26/2020,
+Mexico,2/27/2020,
+Mexico,2/28/2020,1
+Mexico,2/29/2020,3
+Mexico,3/1/2020,1
+Mexico,3/2/2020,0
+Mexico,3/3/2020,0
+Mexico,3/4/2020,0
+Mexico,3/5/2020,0
+Mexico,3/6/2020,1
+Mexico,3/7/2020,0
+Mexico,3/8/2020,1
+Mexico,3/9/2020,0
+Mexico,3/10/2020,0
+Mexico,3/11/2020,1
+Mexico,3/12/2020,4
+Mexico,3/13/2020,14
+Mexico,3/14/2020,15
+Mexico,3/15/2020,12
+Mexico,3/16/2020,29
+Mexico,3/17/2020,11
+Mexico,3/18/2020,25
+Mexico,3/19/2020,46
+Mexico,3/20/2020,39
+Mexico,3/21/2020,48
+Mexico,3/22/2020,65
+Mexico,3/23/2020,51
+Mexico,3/24/2020,38
+Mexico,3/25/2020,70
+Mexico,3/26/2020,110
+Mexico,3/27/2020,132
+Mexico,3/28/2020,131
+Mexico,3/29/2020,145
+Mexico,3/30/2020,101
+Mexico,3/31/2020,121
+Mexico,4/1/2020,163
+Mexico,4/2/2020,132
+Mexico,4/3/2020,178
+Mexico,4/4/2020,202
+Mexico,4/5/2020,253
+Mexico,4/6/2020,296
+Mexico,4/7/2020,346
+Mexico,4/8/2020,396
+Mexico,4/9/2020,260
+Mexico,4/10/2020,403
+Mexico,4/11/2020,375
+Mexico,4/12/2020,442
+Mexico,4/13/2020,353
+Mexico,4/14/2020,385
+Mexico,4/15/2020,448
+Mexico,4/16/2020,450
+Mexico,4/17/2020,578
+Mexico,4/18/2020,622
+Mexico,4/19/2020,764
+Mexico,4/20/2020,511
+Mexico,4/21/2020,729
+Mexico,4/22/2020,1043
+Mexico,4/23/2020,1089
+Mexico,4/24/2020,1239
+Mexico,4/25/2020,970
+Mexico,4/26/2020,835
+Mexico,4/27/2020,852
+Mexico,4/28/2020,1223
+Mexico,4/29/2020,1047
+Mexico,4/30/2020,1425
+Mexico,5/1/2020,1515
+Mexico,5/2/2020,1349
+Mexico,5/3/2020,1383
+Mexico,5/4/2020,1434
+Mexico,5/5/2020,1120
+Mexico,5/6/2020,1609
+Mexico,5/7/2020,1982
+Mexico,5/8/2020,1906
+Mexico,5/9/2020,1938
+Mexico,5/10/2020,1562
+Mexico,5/11/2020,1305
+Mexico,5/12/2020,1997
+Mexico,5/13/2020,1862
+Mexico,5/14/2020,2409
+Mexico,5/15/2020,2437
+Mexico,5/16/2020,2112
+Mexico,5/17/2020,2075
+Mexico,5/18/2020,2414
+Mexico,5/19/2020,2713
+Mexico,5/20/2020,2248
+Mexico,5/21/2020,2973
+Mexico,5/22/2020,2960
+Mexico,5/23/2020,3329
+Mexico,5/24/2020,2764
+Mexico,5/25/2020,2485
+Mexico,5/26/2020,3455
+Mexico,5/27/2020,3463
+Mexico,5/28/2020,3377
+Mexico,5/29/2020,3227
+Mexico,5/30/2020,2885
+Mexico,5/31/2020,3152
+Mexico,6/1/2020,2771
+Mexico,6/2/2020,3891
+Mexico,6/3/2020,3912
+Mexico,6/4/2020,4442
+Mexico,6/5/2020,4346
+Mexico,6/6/2020,3593
+Mexico,6/7/2020,3484
+Mexico,6/8/2020,2999
+Mexico,6/9/2020,4199
+Mexico,6/10/2020,4883
+Mexico,6/11/2020,4790
+Mexico,6/12/2020,5222
+Mexico,6/13/2020,3494
+Mexico,6/14/2020,4147
+Mexico,6/15/2020,3427
+Mexico,6/16/2020,4599
+Mexico,6/17/2020,4930
+Mexico,6/18/2020,5662
+Mexico,6/19/2020,5030
+Mexico,6/20/2020,4717
+Mexico,6/21/2020,5343
+Mexico,6/22/2020,4577
+Mexico,6/23/2020,6288
+Mexico,6/24/2020,5437
+Mexico,6/25/2020,6104
+Mexico,6/26/2020,5441
+Mexico,6/27/2020,4410
+Mexico,6/28/2020,4050
+Mexico,6/29/2020,3805
+Mexico,6/30/2020,5432
+Mexico,7/1/2020,5681
+Mexico,7/2/2020,6741
+Mexico,7/3/2020,6740
+Mexico,7/4/2020,6914
+Mexico,7/5/2020,4683
+Mexico,7/6/2020,4902
+Mexico,7/7/2020,6258
+Mexico,7/8/2020,6995
+Mexico,7/9/2020,7280
+Mexico,7/10/2020,6891
+Mexico,7/11/2020,6094
+Mexico,7/12/2020,4482
+Mexico,7/13/2020,4685
+Mexico,7/14/2020,7051
+Mexico,7/15/2020,6149
+Mexico,7/16/2020,6406
+Mexico,7/17/2020,7257
+Mexico,7/18/2020,7615
+Mexico,7/19/2020,5311
+Mexico,7/20/2020,5172
+Mexico,7/21/2020,6859
+Mexico,7/22/2020,6019
+Mexico,7/23/2020,8438
+Mexico,7/24/2020,7573
+Mexico,7/25/2020,6751
+Mexico,7/26/2020,5480
+Mexico,7/27/2020,4973
+Mexico,7/28/2020,7208
+Mexico,7/29/2020,5752
+Mexico,7/30/2020,7730
+Mexico,7/31/2020,8458
+Mexico,8/1/2020,9556
+Mexico,8/2/2020,4853
+Mexico,8/3/2020,4767
+Mexico,8/4/2020,6148
+Mexico,8/5/2020,6139
+Mexico,8/6/2020,6590
+Mexico,8/7/2020,6717
+Mexico,8/8/2020,6495
+Mexico,8/9/2020,4376
+Mexico,8/10/2020,5558
+Mexico,8/11/2020,6686
+Mexico,8/12/2020,5858
+Mexico,8/13/2020,7371
+Mexico,8/14/2020,5618
+Mexico,8/15/2020,6345
+Mexico,8/16/2020,4448
+Mexico,8/17/2020,3571
+Mexico,8/18/2020,5506
+Mexico,8/19/2020,5792
+Mexico,8/20/2020,6775
+Mexico,8/21/2020,5928
+Mexico,8/22/2020,6482
+Mexico,8/23/2020,3948
+Mexico,8/24/2020,3541
+Mexico,8/25/2020,4916
+Mexico,8/26/2020,5267
+Mexico,8/27/2020,6026
+Mexico,8/28/2020,5824
+Mexico,8/29/2020,5974
+Mexico,8/30/2020,4129
+Mexico,8/31/2020,3719
+Mexico,9/1/2020,6476
+Mexico,9/2/2020,4921
+Mexico,9/3/2020,5937
+Mexico,9/4/2020,6196
+Mexico,9/5/2020,6319
+Mexico,9/6/2020,4614
+Mexico,9/7/2020,3486
+Mexico,9/8/2020,5351
+Mexico,9/9/2020,4461
+Mexico,9/10/2020,5043
+Mexico,9/11/2020,5935
+Mexico,9/12/2020,5674
+Mexico,9/13/2020,4408
+Mexico,9/14/2020,3335
+Mexico,9/15/2020,4771
+Mexico,9/16/2020,4444
+Mexico,9/17/2020,3182
+Mexico,9/18/2020,4841
+Mexico,9/19/2020,5167
+Mexico,9/20/2020,3542
+Mexico,9/21/2020,2917
+Mexico,9/22/2020,4683
+Mexico,9/23/2020,4786
+Mexico,9/24/2020,5408
+Mexico,9/25/2020,5401
+Mexico,9/26/2020,5573
+Mexico,9/27/2020,3886
+Mexico,9/28/2020,3400
+Mexico,9/29/2020,4446
+Mexico,9/30/2020,5053
+Mexico,10/1/2020,5099
+Mexico,10/2/2020,4775
+Mexico,10/3/2020,4863
+Mexico,10/4/2020,3712
+Mexico,10/5/2020,28115
+Mexico,10/6/2020,4828
+Mexico,10/7/2020,4580
+Mexico,10/8/2020,5300
+Mexico,10/9/2020,5532
+Mexico,10/10/2020,4308
+Mexico,10/11/2020,3175
+Mexico,10/12/2020,3542
+Mexico,10/13/2020,4295
+Mexico,10/14/2020,4056
+Mexico,10/15/2020,5514
+Mexico,10/16/2020,6751
+Mexico,10/17/2020,5447
+Mexico,10/18/2020,4119
+Mexico,10/19/2020,3699
+Mexico,10/20/2020,5788
+Mexico,10/21/2020,6845
+Mexico,10/22/2020,6612
+Mexico,10/23/2020,6604
+Mexico,10/24/2020,6025
+Mexico,10/25/2020,4360
+Mexico,10/26/2020,4166
+Mexico,10/27/2020,5942
+Mexico,10/28/2020,5595
+Mexico,10/29/2020,5948
+Mexico,10/30/2020,6000
+Mexico,10/31/2020,6151
+Mexico,11/1/2020,4430
+Mexico,11/2/2020,3763
+Mexico,11/3/2020,5250
+Mexico,11/4/2020,5225
+Mexico,11/5/2020,5567
+Mexico,11/6/2020,5931
+Mexico,11/7/2020,6810
+Mexico,11/8/2020,5887
+Mexico,11/9/2020,4960
+Mexico,11/10/2020,5746
+Mexico,11/11/2020,7646
+Mexico,11/12/2020,5658
+Mexico,11/13/2020,5558
+Mexico,11/14/2020,5860
+Mexico,11/15/2020,3269
+Mexico,11/16/2020,2874
+Mexico,11/17/2020,1757
+Mexico,11/18/2020,3918
+Mexico,11/19/2020,4472
+Mexico,11/20/2020,6426
+Mexico,11/21/2020,6719
+Mexico,11/22/2020,9187
+Mexico,11/23/2020,7483
+Mexico,11/24/2020,10794
+Mexico,11/25/2020,10335
+Mexico,11/26/2020,8107
+Mexico,11/27/2020,12081
+Mexico,11/28/2020,10728
+Mexico,11/29/2020,5668
+Mexico,11/30/2020,6472
+Mexico,12/1/2020,8819
+Mexico,12/2/2020,11251
+Mexico,12/3/2020,11030
+Mexico,12/4/2020,12127
+Mexico,12/5/2020,11625
+Mexico,12/6/2020,7455
+Mexico,12/7/2020,6399
+Mexico,12/8/2020,11006
+Mexico,12/9/2020,11974
+Mexico,12/10/2020,11897
+Mexico,12/11/2020,12253
+Mexico,12/12/2020,12057
+Mexico,12/13/2020,8608
+Mexico,12/14/2020,5930
+Mexico,12/15/2020,11228
+Mexico,12/16/2020,10297
+Mexico,12/17/2020,11799
+Mexico,12/18/2020,12248
+Mexico,12/19/2020,12129
+Mexico,12/20/2020,6870
+Mexico,12/21/2020,5370
+Mexico,12/22/2020,12511
+Mexico,12/23/2020,11653
+Mexico,12/24/2020,12485
+Mexico,12/25/2020,9679
+Mexico,12/26/2020,4974
+Mexico,12/27/2020,6217
+Mexico,12/28/2020,5996
+Mexico,12/29/2020,12099
+Mexico,12/30/2020,12406
+Mexico,12/31/2020,12159
+Mexico,1/1/2021,11091
+Mexico,1/2/2021,6359
+Mexico,1/3/2021,5211
+Mexico,1/4/2021,6464
+Mexico,1/5/2021,11271
+Mexico,1/6/2021,13345
+Mexico,1/7/2021,13734
+Mexico,1/8/2021,14362
+Mexico,1/9/2021,16105
+Mexico,1/10/2021,10003
+Mexico,1/11/2021,7594
+Mexico,1/12/2021,14395
+Mexico,1/13/2021,15873
+Mexico,1/14/2021,16468
+Mexico,1/15/2021,21366
+Mexico,1/16/2021,20523
+Mexico,1/17/2021,11170
+Mexico,1/18/2021,8074
+Mexico,1/19/2021,18894
+Mexico,1/20/2021,20548
+Mexico,1/21/2021,22339
+Mexico,1/22/2021,21007
+Mexico,1/23/2021,20057
+Mexico,1/24/2021,10872
+Mexico,1/25/2021,8521
+Mexico,1/26/2021,17165
+Mexico,1/27/2021,17944
+Mexico,1/28/2021,18670
+Mexico,1/29/2021,16374
+Mexico,1/30/2021,15337
+Mexico,1/31/2021,7030
+Mexico,2/1/2021,5448
+Mexico,2/2/2021,4384
+Mexico,2/3/2021,12153
+Mexico,2/4/2021,0
+Mexico,2/5/2021,26626
+Mexico,2/6/2021,13209
+Mexico,2/7/2021,6065
+Mexico,2/8/2021,3868
+Mexico,2/9/2021,10738
+Mexico,2/10/2021,11138
+Mexico,2/11/2021,10677
+Mexico,2/12/2021,10388
+Mexico,2/13/2021,9741
+Mexico,2/14/2021,4099
+Mexico,2/15/2021,3098
+Mexico,2/16/2021,8683
+Mexico,2/17/2021,8988
+Mexico,2/18/2021,9099
+Mexico,2/19/2021,7829
+Mexico,2/20/2021,7785
+Mexico,2/21/2021,3104
+Mexico,2/22/2021,2252
+Mexico,2/23/2021,8634
+Mexico,2/24/2021,8642
+Mexico,2/25/2021,8462
+Mexico,2/26/2021,7512
+Mexico,2/27/2021,7246
+Mexico,2/28/2021,2810
+Mexico,3/1/2021,2343
+Mexico,3/2/2021,7913
+Mexico,3/3/2021,7793
+Mexico,3/4/2021,7521
+Mexico,3/5/2021,6797
+Mexico,3/6/2021,6561
+Mexico,3/7/2021,2734
+Mexico,3/8/2021,1877
+Mexico,3/9/2021,7407
+Mexico,3/10/2021,6602
+Mexico,3/11/2021,6469
+Mexico,3/12/2021,6816
+Mexico,3/13/2021,6104
+Mexico,3/14/2021,2415
+Mexico,3/15/2021,1439
+Mexico,3/16/2021,1278
+Mexico,3/17/2021,6455
+Mexico,3/18/2021,6726
+Mexico,3/19/2021,5722
+Mexico,3/20/2021,5729
+Mexico,3/21/2021,2133
+Mexico,3/22/2021,1388
+Mexico,3/23/2021,5881
+Mexico,3/24/2021,5714
+Mexico,3/25/2021,5787
+Mexico,3/26/2021,5303
+Mexico,3/27/2021,5059
+Mexico,3/28/2021,1646
+Mexico,3/29/2021,1293
+Mexico,3/30/2021,5067
+Mexico,3/31/2021,5977
+Mexico,4/1/2021,5381
+Mexico,4/2/2021,3089
+Mexico,4/3/2021,1838
+Mexico,4/4/2021,1263
+Mexico,4/5/2021,1247
+Mexico,4/6/2021,4804
+Mexico,4/7/2021,5370
+Mexico,4/8/2021,5140
+Mexico,4/9/2021,5045
+Mexico,4/10/2021,6356
+Mexico,4/11/2021,1793
+Mexico,4/12/2021,1627
+Mexico,4/13/2021,4512
+Mexico,4/14/2021,4894
+Mexico,4/15/2021,4189
+Mexico,4/16/2021,4504
+Mexico,4/17/2021,4157
+Mexico,4/18/2021,1506
+Mexico,4/19/2021,1308
+Mexico,4/20/2021,4262
+Mexico,4/21/2021,4639
+Mexico,4/22/2021,3708
+Mexico,4/23/2021,3911
+Mexico,4/24/2021,3308
+Mexico,4/25/2021,1653
+Mexico,4/26/2021,1143
+Mexico,4/27/2021,3592
+Mexico,4/28/2021,3818
+Mexico,4/29/2021,3990
+Mexico,4/30/2021,3821
+Mexico,5/1/2021,3025
+Mexico,5/2/2021,1093
+Mexico,5/3/2021,1027
+Mexico,5/4/2021,3064
+Mexico,5/5/2021,3021
+Mexico,5/6/2021,2846
+Mexico,5/7/2021,3043
+Mexico,5/8/2021,2743
+Mexico,5/9/2021,1175
+Mexico,5/10/2021,704
+Mexico,5/11/2021,1897
+Mexico,5/12/2021,3090
+Mexico,5/13/2021,3632
+Mexico,5/14/2021,2880
+Mexico,5/15/2021,2695
+Mexico,5/16/2021,1233
+Mexico,5/17/2021,822
+Mexico,5/18/2021,2767
+Mexico,5/19/2021,2000
+Mexico,5/20/2021,2628
+Mexico,5/21/2021,2604
+Mexico,5/22/2021,2586
+Mexico,5/23/2021,1274
+Mexico,5/24/2021,703
+Mexico,5/25/2021,2483
+Mexico,5/26/2021,2932
+Mexico,5/27/2021,3050
+Mexico,5/28/2021,3006
+Mexico,5/29/2021,2725
+Mexico,5/30/2021,1307
+Mexico,5/31/2021,932
+Mexico,6/1/2021,6917
+Mexico,6/2/2021,3269
+Mexico,6/3/2021,2894
+Mexico,6/4/2021,2809
+Mexico,6/5/2021,2071
+Mexico,6/6/2021,1979
+Mexico,6/7/2021,881
+Mexico,6/8/2021,3449
+Mexico,6/9/2021,3855
+Mexico,6/10/2021,3672
+Mexico,6/11/2021,3282
+Mexico,6/12/2021,3649
+Mexico,6/13/2021,1707
+Nigeria,2/28/2020,1
+Nigeria,2/29/2020,0
+Nigeria,3/1/2020,0
+Nigeria,3/2/2020,0
+Nigeria,3/3/2020,0
+Nigeria,3/4/2020,0
+Nigeria,3/5/2020,0
+Nigeria,3/6/2020,0
+Nigeria,3/7/2020,0
+Nigeria,3/8/2020,0
+Nigeria,3/9/2020,1
+Nigeria,3/10/2020,0
+Nigeria,3/11/2020,0
+Nigeria,3/12/2020,0
+Nigeria,3/13/2020,0
+Nigeria,3/14/2020,0
+Nigeria,3/15/2020,0
+Nigeria,3/16/2020,0
+Nigeria,3/17/2020,1
+Nigeria,3/18/2020,5
+Nigeria,3/19/2020,0
+Nigeria,3/20/2020,4
+Nigeria,3/21/2020,10
+Nigeria,3/22/2020,8
+Nigeria,3/23/2020,10
+Nigeria,3/24/2020,4
+Nigeria,3/25/2020,7
+Nigeria,3/26/2020,14
+Nigeria,3/27/2020,5
+Nigeria,3/28/2020,19
+Nigeria,3/29/2020,22
+Nigeria,3/30/2020,20
+Nigeria,3/31/2020,4
+Nigeria,4/1/2020,39
+Nigeria,4/2/2020,10
+Nigeria,4/3/2020,26
+Nigeria,4/4/2020,4
+Nigeria,4/5/2020,18
+Nigeria,4/6/2020,6
+Nigeria,4/7/2020,16
+Nigeria,4/8/2020,22
+Nigeria,4/9/2020,12
+Nigeria,4/10/2020,17
+Nigeria,4/11/2020,13
+Nigeria,4/12/2020,5
+Nigeria,4/13/2020,20
+Nigeria,4/14/2020,30
+Nigeria,4/15/2020,34
+Nigeria,4/16/2020,35
+Nigeria,4/17/2020,51
+Nigeria,4/18/2020,49
+Nigeria,4/19/2020,85
+Nigeria,4/20/2020,38
+Nigeria,4/21/2020,0
+Nigeria,4/22/2020,208
+Nigeria,4/23/2020,108
+Nigeria,4/24/2020,114
+Nigeria,4/25/2020,87
+Nigeria,4/26/2020,91
+Nigeria,4/27/2020,64
+Nigeria,4/28/2020,195
+Nigeria,4/29/2020,196
+Nigeria,4/30/2020,204
+Nigeria,5/1/2020,238
+Nigeria,5/2/2020,218
+Nigeria,5/3/2020,170
+Nigeria,5/4/2020,244
+Nigeria,5/5/2020,148
+Nigeria,5/6/2020,195
+Nigeria,5/7/2020,381
+Nigeria,5/8/2020,386
+Nigeria,5/9/2020,239
+Nigeria,5/10/2020,248
+Nigeria,5/11/2020,242
+Nigeria,5/12/2020,146
+Nigeria,5/13/2020,184
+Nigeria,5/14/2020,191
+Nigeria,5/15/2020,288
+Nigeria,5/16/2020,171
+Nigeria,5/17/2020,338
+Nigeria,5/18/2020,216
+Nigeria,5/19/2020,226
+Nigeria,5/20/2020,276
+Nigeria,5/21/2020,339
+Nigeria,5/22/2020,245
+Nigeria,5/23/2020,265
+Nigeria,5/24/2020,313
+Nigeria,5/25/2020,229
+Nigeria,5/26/2020,276
+Nigeria,5/27/2020,389
+Nigeria,5/28/2020,182
+Nigeria,5/29/2020,387
+Nigeria,5/30/2020,553
+Nigeria,5/31/2020,307
+Nigeria,6/1/2020,416
+Nigeria,6/2/2020,241
+Nigeria,6/3/2020,347
+Nigeria,6/4/2020,350
+Nigeria,6/5/2020,328
+Nigeria,6/6/2020,389
+Nigeria,6/7/2020,253
+Nigeria,6/8/2020,315
+Nigeria,6/9/2020,663
+Nigeria,6/10/2020,409
+Nigeria,6/11/2020,681
+Nigeria,6/12/2020,627
+Nigeria,6/13/2020,501
+Nigeria,6/14/2020,403
+Nigeria,6/15/2020,573
+Nigeria,6/16/2020,490
+Nigeria,6/17/2020,587
+Nigeria,6/18/2020,745
+Nigeria,6/19/2020,667
+Nigeria,6/20/2020,661
+Nigeria,6/21/2020,436
+Nigeria,6/22/2020,675
+Nigeria,6/23/2020,452
+Nigeria,6/24/2020,649
+Nigeria,6/25/2020,594
+Nigeria,6/26/2020,684
+Nigeria,6/27/2020,779
+Nigeria,6/28/2020,490
+Nigeria,6/29/2020,566
+Nigeria,6/30/2020,561
+Nigeria,7/1/2020,790
+Nigeria,7/2/2020,626
+Nigeria,7/3/2020,454
+Nigeria,7/4/2020,603
+Nigeria,7/5/2020,544
+Nigeria,7/6/2020,575
+Nigeria,7/7/2020,503
+Nigeria,7/8/2020,460
+Nigeria,7/9/2020,499
+Nigeria,7/10/2020,575
+Nigeria,7/11/2020,664
+Nigeria,7/12/2020,571
+Nigeria,7/13/2020,595
+Nigeria,7/14/2020,463
+Nigeria,7/15/2020,643
+Nigeria,7/16/2020,595
+Nigeria,7/17/2020,600
+Nigeria,7/18/2020,653
+Nigeria,7/19/2020,556
+Nigeria,7/20/2020,562
+Nigeria,7/21/2020,576
+Nigeria,7/22/2020,543
+Nigeria,7/23/2020,604
+Nigeria,7/24/2020,591
+Nigeria,7/25/2020,438
+Nigeria,7/26/2020,555
+Nigeria,7/27/2020,648
+Nigeria,7/28/2020,624
+Nigeria,7/29/2020,404
+Nigeria,7/30/2020,481
+Nigeria,7/31/2020,462
+Nigeria,8/1/2020,386
+Nigeria,8/2/2020,304
+Nigeria,8/3/2020,288
+Nigeria,8/4/2020,304
+Nigeria,8/5/2020,457
+Nigeria,8/6/2020,354
+Nigeria,8/7/2020,443
+Nigeria,8/8/2020,453
+Nigeria,8/9/2020,437
+Nigeria,8/10/2020,290
+Nigeria,8/11/2020,423
+Nigeria,8/12/2020,453
+Nigeria,8/13/2020,373
+Nigeria,8/14/2020,329
+Nigeria,8/15/2020,325
+Nigeria,8/16/2020,298
+Nigeria,8/17/2020,417
+Nigeria,8/18/2020,410
+Nigeria,8/19/2020,593
+Nigeria,8/20/2020,476
+Nigeria,8/21/2020,340
+Nigeria,8/22/2020,601
+Nigeria,8/23/2020,322
+Nigeria,8/24/2020,321
+Nigeria,8/25/2020,252
+Nigeria,8/26/2020,221
+Nigeria,8/27/2020,296
+Nigeria,8/28/2020,160
+Nigeria,8/29/2020,250
+Nigeria,8/30/2020,138
+Nigeria,8/31/2020,143
+Nigeria,9/1/2020,239
+Nigeria,9/2/2020,216
+Nigeria,9/3/2020,125
+Nigeria,9/4/2020,155
+Nigeria,9/5/2020,162
+Nigeria,9/6/2020,100
+Nigeria,9/7/2020,155
+Nigeria,9/8/2020,296
+Nigeria,9/9/2020,176
+Nigeria,9/10/2020,197
+Nigeria,9/11/2020,188
+Nigeria,9/12/2020,160
+Nigeria,9/13/2020,79
+Nigeria,9/14/2020,132
+Nigeria,9/15/2020,90
+Nigeria,9/16/2020,126
+Nigeria,9/17/2020,131
+Nigeria,9/18/2020,221
+Nigeria,9/19/2020,189
+Nigeria,9/20/2020,97
+Nigeria,9/21/2020,195
+Nigeria,9/22/2020,176
+Nigeria,9/23/2020,111
+Nigeria,9/24/2020,125
+Nigeria,9/25/2020,213
+Nigeria,9/26/2020,136
+Nigeria,9/27/2020,126
+Nigeria,9/28/2020,136
+Nigeria,9/29/2020,187
+Nigeria,9/30/2020,201
+Nigeria,10/1/2020,153
+Nigeria,10/2/2020,126
+Nigeria,10/3/2020,160
+Nigeria,10/4/2020,58
+Nigeria,10/5/2020,120
+Nigeria,10/6/2020,118
+Nigeria,10/7/2020,155
+Nigeria,10/8/2020,103
+Nigeria,10/9/2020,151
+Nigeria,10/10/2020,111
+Nigeria,10/11/2020,163
+Nigeria,10/12/2020,164
+Nigeria,10/13/2020,225
+Nigeria,10/14/2020,179
+Nigeria,10/15/2020,148
+Nigeria,10/16/2020,212
+Nigeria,10/17/2020,113
+Nigeria,10/18/2020,133
+Nigeria,10/19/2020,118
+Nigeria,10/20/2020,72
+Nigeria,10/21/2020,37
+Nigeria,10/22/2020,138
+Nigeria,10/23/2020,77
+Nigeria,10/24/2020,48
+Nigeria,10/25/2020,62
+Nigeria,10/26/2020,119
+Nigeria,10/27/2020,113
+Nigeria,10/28/2020,147
+Nigeria,10/29/2020,150
+Nigeria,10/30/2020,170
+Nigeria,10/31/2020,162
+Nigeria,11/1/2020,111
+Nigeria,11/2/2020,72
+Nigeria,11/3/2020,137
+Nigeria,11/4/2020,155
+Nigeria,11/5/2020,180
+Nigeria,11/6/2020,223
+Nigeria,11/7/2020,59
+Nigeria,11/8/2020,300
+Nigeria,11/9/2020,94
+Nigeria,11/10/2020,152
+Nigeria,11/11/2020,180
+Nigeria,11/12/2020,212
+Nigeria,11/13/2020,156
+Nigeria,11/14/2020,112
+Nigeria,11/15/2020,152
+Nigeria,11/16/2020,157
+Nigeria,11/17/2020,152
+Nigeria,11/18/2020,236
+Nigeria,11/19/2020,146
+Nigeria,11/20/2020,143
+Nigeria,11/21/2020,246
+Nigeria,11/22/2020,155
+Nigeria,11/23/2020,56
+Nigeria,11/24/2020,168
+Nigeria,11/25/2020,198
+Nigeria,11/26/2020,169
+Nigeria,11/27/2020,246
+Nigeria,11/28/2020,110
+Nigeria,11/29/2020,82
+Nigeria,11/30/2020,145
+Nigeria,12/1/2020,281
+Nigeria,12/2/2020,122
+Nigeria,12/3/2020,343
+Nigeria,12/4/2020,324
+Nigeria,12/5/2020,310
+Nigeria,12/6/2020,318
+Nigeria,12/7/2020,390
+Nigeria,12/8/2020,550
+Nigeria,12/9/2020,474
+Nigeria,12/10/2020,675
+Nigeria,12/11/2020,796
+Nigeria,12/12/2020,617
+Nigeria,12/13/2020,418
+Nigeria,12/14/2020,199
+Nigeria,12/15/2020,758
+Nigeria,12/16/2020,930
+Nigeria,12/17/2020,1145
+Nigeria,12/18/2020,806
+Nigeria,12/19/2020,920
+Nigeria,12/20/2020,501
+Nigeria,12/21/2020,356
+Nigeria,12/22/2020,999
+Nigeria,12/23/2020,1133
+Nigeria,12/24/2020,1041
+Nigeria,12/25/2020,784
+Nigeria,12/26/2020,829
+Nigeria,12/27/2020,838
+Nigeria,12/28/2020,397
+Nigeria,12/29/2020,749
+Nigeria,12/30/2020,1016
+Nigeria,12/31/2020,1031
+Nigeria,1/1/2021,980
+Nigeria,1/2/2021,576
+Nigeria,1/3/2021,917
+Nigeria,1/4/2021,1271
+Nigeria,1/5/2021,1354
+Nigeria,1/6/2021,1664
+Nigeria,1/7/2021,1565
+Nigeria,1/8/2021,1544
+Nigeria,1/9/2021,1585
+Nigeria,1/10/2021,1024
+Nigeria,1/11/2021,1244
+Nigeria,1/12/2021,1270
+Nigeria,1/13/2021,1398
+Nigeria,1/14/2021,1479
+Nigeria,1/15/2021,1867
+Nigeria,1/16/2021,1598
+Nigeria,1/17/2021,1444
+Nigeria,1/18/2021,1617
+Nigeria,1/19/2021,1301
+Nigeria,1/20/2021,1386
+Nigeria,1/21/2021,1964
+Nigeria,1/22/2021,1483
+Nigeria,1/23/2021,2464
+Nigeria,1/24/2021,964
+Nigeria,1/25/2021,1430
+Nigeria,1/26/2021,1303
+Nigeria,1/27/2021,1861
+Nigeria,1/28/2021,864
+Nigeria,1/29/2021,1650
+Nigeria,1/30/2021,1883
+Nigeria,1/31/2021,685
+Nigeria,2/1/2021,676
+Nigeria,2/2/2021,1634
+Nigeria,2/3/2021,1138
+Nigeria,2/4/2021,1340
+Nigeria,2/5/2021,1624
+Nigeria,2/6/2021,1588
+Nigeria,2/7/2021,506
+Nigeria,2/8/2021,643
+Nigeria,2/9/2021,1056
+Nigeria,2/10/2021,1131
+Nigeria,2/11/2021,938
+Nigeria,2/12/2021,1005
+Nigeria,2/13/2021,1143
+Nigeria,2/14/2021,520
+Nigeria,2/15/2021,744
+Nigeria,2/16/2021,1368
+Nigeria,2/17/2021,1073
+Nigeria,2/18/2021,877
+Nigeria,2/19/2021,662
+Nigeria,2/20/2021,645
+Nigeria,2/21/2021,521
+Nigeria,2/22/2021,542
+Nigeria,2/23/2021,571
+Nigeria,2/24/2021,655
+Nigeria,2/25/2021,634
+Nigeria,2/26/2021,600
+Nigeria,2/27/2021,341
+Nigeria,2/28/2021,240
+Nigeria,3/1/2021,360
+Nigeria,3/2/2021,479
+Nigeria,3/3/2021,464
+Nigeria,3/4/2021,711
+Nigeria,3/5/2021,371
+Nigeria,3/6/2021,195
+Nigeria,3/7/2021,269
+Nigeria,3/8/2021,400
+Nigeria,3/9/2021,346
+Nigeria,3/10/2021,394
+Nigeria,3/11/2021,287
+Nigeria,3/12/2021,399
+Nigeria,3/13/2021,205
+Nigeria,3/14/2021,120
+Nigeria,3/15/2021,238
+Nigeria,3/16/2021,179
+Nigeria,3/17/2021,187
+Nigeria,3/18/2021,148
+Nigeria,3/19/2021,130
+Nigeria,3/20/2021,112
+Nigeria,3/21/2021,86
+Nigeria,3/22/2021,131
+Nigeria,3/23/2021,208
+Nigeria,3/24/2021,102
+Nigeria,3/25/2021,97
+Nigeria,3/26/2021,113
+Nigeria,3/27/2021,101
+Nigeria,3/28/2021,104
+Nigeria,3/29/2021,48
+Nigeria,3/30/2021,121
+Nigeria,3/31/2021,129
+Nigeria,4/1/2021,106
+Nigeria,4/2/2021,66
+Nigeria,4/3/2021,50
+Nigeria,4/4/2021,82
+Nigeria,4/5/2021,135
+Nigeria,4/6/2021,58
+Nigeria,4/7/2021,110
+Nigeria,4/8/2021,83
+Nigeria,4/9/2021,71
+Nigeria,4/10/2021,84
+Nigeria,4/11/2021,63
+Nigeria,4/12/2021,38
+Nigeria,4/13/2021,74
+Nigeria,4/14/2021,89
+Nigeria,4/15/2021,80
+Nigeria,4/16/2021,67
+Nigeria,4/17/2021,60
+Nigeria,4/18/2021,26
+Nigeria,4/19/2021,70
+Nigeria,4/20/2021,120
+Nigeria,4/21/2021,65
+Nigeria,4/22/2021,100
+Nigeria,4/23/2021,45
+Nigeria,4/24/2021,51
+Nigeria,4/25/2021,35
+Nigeria,4/26/2021,37
+Nigeria,4/27/2021,156
+Nigeria,4/28/2021,81
+Nigeria,4/29/2021,62
+Nigeria,4/30/2021,55
+Nigeria,5/1/2021,0
+Nigeria,5/2/2021,43
+Nigeria,5/3/2021,46
+Nigeria,5/4/2021,16
+Nigeria,5/5/2021,58
+Nigeria,5/6/2021,28
+Nigeria,5/7/2021,39
+Nigeria,5/8/2021,30
+Nigeria,5/9/2021,49
+Nigeria,5/10/2021,49
+Nigeria,5/11/2021,47
+Nigeria,5/12/2021,44
+Nigeria,5/13/2021,53
+Nigeria,5/14/2021,49
+Nigeria,5/15/2021,41
+Nigeria,5/16/2021,7
+Nigeria,5/17/2021,69
+Nigeria,5/18/2021,0
+Nigeria,5/19/2021,74
+Nigeria,5/20/2021,49
+Nigeria,5/21/2021,43
+Nigeria,5/22/2021,35
+Nigeria,5/23/2021,40
+Nigeria,5/24/2021,42
+Nigeria,5/25/2021,37
+Nigeria,5/26/2021,48
+Nigeria,5/27/2021,45
+Nigeria,5/28/2021,63
+Nigeria,5/29/2021,31
+Nigeria,5/30/2021,30
+Nigeria,5/31/2021,203
+Nigeria,6/1/2021,16
+Nigeria,6/2/2021,26
+Nigeria,6/3/2021,122
+Nigeria,6/4/2021,48
+Nigeria,6/5/2021,26
+Nigeria,6/6/2021,11
+Nigeria,6/7/2021,49
+Nigeria,6/8/2021,102
+Nigeria,6/9/2021,64
+Nigeria,6/10/2021,0
+Nigeria,6/11/2021,69
+Nigeria,6/12/2021,8
+Nigeria,6/13/2021,7
+Russia,1/31/2020,2
+Russia,2/1/2020,0
+Russia,2/2/2020,0
+Russia,2/3/2020,0
+Russia,2/4/2020,0
+Russia,2/5/2020,0
+Russia,2/6/2020,0
+Russia,2/7/2020,0
+Russia,2/8/2020,0
+Russia,2/9/2020,0
+Russia,2/10/2020,0
+Russia,2/11/2020,0
+Russia,2/12/2020,0
+Russia,2/13/2020,0
+Russia,2/14/2020,0
+Russia,2/15/2020,0
+Russia,2/16/2020,0
+Russia,2/17/2020,0
+Russia,2/18/2020,0
+Russia,2/19/2020,0
+Russia,2/20/2020,0
+Russia,2/21/2020,0
+Russia,2/22/2020,0
+Russia,2/23/2020,0
+Russia,2/24/2020,0
+Russia,2/25/2020,0
+Russia,2/26/2020,0
+Russia,2/27/2020,0
+Russia,2/28/2020,0
+Russia,2/29/2020,0
+Russia,3/1/2020,0
+Russia,3/2/2020,1
+Russia,3/3/2020,0
+Russia,3/4/2020,0
+Russia,3/5/2020,1
+Russia,3/6/2020,9
+Russia,3/7/2020,0
+Russia,3/8/2020,4
+Russia,3/9/2020,0
+Russia,3/10/2020,3
+Russia,3/11/2020,0
+Russia,3/12/2020,8
+Russia,3/13/2020,17
+Russia,3/14/2020,14
+Russia,3/15/2020,4
+Russia,3/16/2020,27
+Russia,3/17/2020,24
+Russia,3/18/2020,33
+Russia,3/19/2020,52
+Russia,3/20/2020,54
+Russia,3/21/2020,53
+Russia,3/22/2020,61
+Russia,3/23/2020,71
+Russia,3/24/2020,57
+Russia,3/25/2020,163
+Russia,3/26/2020,182
+Russia,3/27/2020,196
+Russia,3/28/2020,228
+Russia,3/29/2020,270
+Russia,3/30/2020,302
+Russia,3/31/2020,501
+Russia,4/1/2020,440
+Russia,4/2/2020,771
+Russia,4/3/2020,601
+Russia,4/4/2020,582
+Russia,4/5/2020,658
+Russia,4/6/2020,954
+Russia,4/7/2020,1154
+Russia,4/8/2020,1175
+Russia,4/9/2020,1459
+Russia,4/10/2020,1786
+Russia,4/11/2020,1667
+Russia,4/12/2020,2186
+Russia,4/13/2020,2558
+Russia,4/14/2020,2774
+Russia,4/15/2020,3388
+Russia,4/16/2020,3448
+Russia,4/17/2020,4070
+Russia,4/18/2020,4785
+Russia,4/19/2020,6060
+Russia,4/20/2020,4268
+Russia,4/21/2020,5642
+Russia,4/22/2020,5236
+Russia,4/23/2020,4774
+Russia,4/24/2020,5849
+Russia,4/25/2020,5966
+Russia,4/26/2020,6361
+Russia,4/27/2020,6198
+Russia,4/28/2020,6411
+Russia,4/29/2020,5841
+Russia,4/30/2020,7099
+Russia,5/1/2020,7933
+Russia,5/2/2020,9623
+Russia,5/3/2020,10633
+Russia,5/4/2020,10581
+Russia,5/5/2020,10102
+Russia,5/6/2020,10559
+Russia,5/7/2020,11231
+Russia,5/8/2020,10699
+Russia,5/9/2020,10817
+Russia,5/10/2020,11012
+Russia,5/11/2020,11656
+Russia,5/12/2020,10899
+Russia,5/13/2020,10028
+Russia,5/14/2020,9974
+Russia,5/15/2020,10598
+Russia,5/16/2020,9200
+Russia,5/17/2020,9709
+Russia,5/18/2020,8926
+Russia,5/19/2020,9263
+Russia,5/20/2020,8764
+Russia,5/21/2020,8849
+Russia,5/22/2020,8894
+Russia,5/23/2020,9434
+Russia,5/24/2020,8599
+Russia,5/25/2020,8946
+Russia,5/26/2020,8915
+Russia,5/27/2020,8338
+Russia,5/28/2020,8371
+Russia,5/29/2020,8572
+Russia,5/30/2020,8952
+Russia,5/31/2020,9268
+Russia,6/1/2020,8485
+Russia,6/2/2020,8858
+Russia,6/3/2020,8529
+Russia,6/4/2020,8823
+Russia,6/5/2020,8718
+Russia,6/6/2020,8846
+Russia,6/7/2020,8971
+Russia,6/8/2020,8970
+Russia,6/9/2020,8587
+Russia,6/10/2020,8393
+Russia,6/11/2020,8777
+Russia,6/12/2020,8961
+Russia,6/13/2020,8697
+Russia,6/14/2020,8809
+Russia,6/15/2020,8217
+Russia,6/16/2020,8241
+Russia,6/17/2020,7824
+Russia,6/18/2020,7772
+Russia,6/19/2020,7971
+Russia,6/20/2020,7870
+Russia,6/21/2020,7717
+Russia,6/22/2020,7586
+Russia,6/23/2020,7413
+Russia,6/24/2020,7165
+Russia,6/25/2020,7105
+Russia,6/26/2020,6788
+Russia,6/27/2020,6843
+Russia,6/28/2020,6784
+Russia,6/29/2020,6683
+Russia,6/30/2020,6683
+Russia,7/1/2020,6550
+Russia,7/2/2020,6752
+Russia,7/3/2020,6710
+Russia,7/4/2020,6623
+Russia,7/5/2020,6719
+Russia,7/6/2020,6569
+Russia,7/7/2020,6363
+Russia,7/8/2020,6534
+Russia,7/9/2020,6491
+Russia,7/10/2020,6623
+Russia,7/11/2020,6586
+Russia,7/12/2020,6587
+Russia,7/13/2020,6511
+Russia,7/14/2020,6240
+Russia,7/15/2020,6410
+Russia,7/16/2020,6415
+Russia,7/17/2020,6389
+Russia,7/18/2020,6214
+Russia,7/19/2020,6096
+Russia,7/20/2020,5901
+Russia,7/21/2020,5828
+Russia,7/22/2020,5850
+Russia,7/23/2020,5830
+Russia,7/24/2020,5779
+Russia,7/25/2020,5833
+Russia,7/26/2020,5741
+Russia,7/27/2020,5607
+Russia,7/28/2020,5380
+Russia,7/29/2020,5449
+Russia,7/30/2020,5484
+Russia,7/31/2020,5468
+Russia,8/1/2020,5429
+Russia,8/2/2020,5387
+Russia,8/3/2020,5364
+Russia,8/4/2020,5121
+Russia,8/5/2020,5186
+Russia,8/6/2020,5239
+Russia,8/7/2020,5191
+Russia,8/8/2020,5185
+Russia,8/9/2020,5155
+Russia,8/10/2020,5081
+Russia,8/11/2020,4892
+Russia,8/12/2020,5054
+Russia,8/13/2020,5017
+Russia,8/14/2020,5016
+Russia,8/15/2020,5030
+Russia,8/16/2020,4911
+Russia,8/17/2020,4839
+Russia,8/18/2020,4718
+Russia,8/19/2020,4790
+Russia,8/20/2020,4767
+Russia,8/21/2020,4838
+Russia,8/22/2020,4860
+Russia,8/23/2020,4797
+Russia,8/24/2020,4688
+Russia,8/25/2020,4639
+Russia,8/26/2020,4642
+Russia,8/27/2020,4675
+Russia,8/28/2020,4758
+Russia,8/29/2020,4843
+Russia,8/30/2020,4897
+Russia,8/31/2020,4932
+Russia,9/1/2020,4670
+Russia,9/2/2020,4893
+Russia,9/3/2020,4958
+Russia,9/4/2020,5064
+Russia,9/5/2020,5144
+Russia,9/6/2020,5097
+Russia,9/7/2020,5106
+Russia,9/8/2020,5020
+Russia,9/9/2020,5172
+Russia,9/10/2020,5310
+Russia,9/11/2020,5421
+Russia,9/12/2020,5406
+Russia,9/13/2020,5361
+Russia,9/14/2020,5414
+Russia,9/15/2020,5435
+Russia,9/16/2020,5612
+Russia,9/17/2020,5667
+Russia,9/18/2020,5803
+Russia,9/19/2020,5960
+Russia,9/20/2020,6043
+Russia,9/21/2020,6090
+Russia,9/22/2020,6109
+Russia,9/23/2020,6330
+Russia,9/24/2020,6489
+Russia,9/25/2020,7112
+Russia,9/26/2020,7421
+Russia,9/27/2020,7764
+Russia,9/28/2020,8026
+Russia,9/29/2020,8129
+Russia,9/30/2020,8371
+Russia,10/1/2020,8835
+Russia,10/2/2020,9294
+Russia,10/3/2020,9735
+Russia,10/4/2020,10376
+Russia,10/5/2020,10757
+Russia,10/6/2020,11481
+Russia,10/7/2020,10981
+Russia,10/8/2020,11345
+Russia,10/9/2020,11969
+Russia,10/10/2020,12673
+Russia,10/11/2020,13442
+Russia,10/12/2020,13406
+Russia,10/13/2020,13690
+Russia,10/14/2020,14041
+Russia,10/15/2020,13556
+Russia,10/16/2020,14937
+Russia,10/17/2020,14703
+Russia,10/18/2020,14804
+Russia,10/19/2020,15843
+Russia,10/20/2020,16108
+Russia,10/21/2020,15444
+Russia,10/22/2020,15704
+Russia,10/23/2020,17077
+Russia,10/24/2020,16260
+Russia,10/25/2020,16392
+Russia,10/26/2020,17148
+Russia,10/27/2020,16342
+Russia,10/28/2020,15886
+Russia,10/29/2020,17418
+Russia,10/30/2020,17987
+Russia,10/31/2020,17834
+Russia,11/1/2020,18381
+Russia,11/2/2020,18017
+Russia,11/3/2020,18431
+Russia,11/4/2020,19483
+Russia,11/5/2020,19116
+Russia,11/6/2020,20368
+Russia,11/7/2020,20109
+Russia,11/8/2020,20248
+Russia,11/9/2020,21577
+Russia,11/10/2020,20765
+Russia,11/11/2020,19583
+Russia,11/12/2020,21333
+Russia,11/13/2020,21717
+Russia,11/14/2020,22441
+Russia,11/15/2020,22313
+Russia,11/16/2020,22562
+Russia,11/17/2020,22201
+Russia,11/18/2020,20717
+Russia,11/19/2020,23337
+Russia,11/20/2020,24059
+Russia,11/21/2020,24538
+Russia,11/22/2020,24295
+Russia,11/23/2020,24891
+Russia,11/24/2020,24087
+Russia,11/25/2020,23393
+Russia,11/26/2020,25195
+Russia,11/27/2020,27267
+Russia,11/28/2020,26809
+Russia,11/29/2020,26390
+Russia,11/30/2020,26046
+Russia,12/1/2020,26126
+Russia,12/2/2020,25043
+Russia,12/3/2020,27829
+Russia,12/4/2020,27078
+Russia,12/5/2020,28450
+Russia,12/6/2020,28701
+Russia,12/7/2020,27798
+Russia,12/8/2020,25752
+Russia,12/9/2020,25838
+Russia,12/10/2020,27562
+Russia,12/11/2020,28206
+Russia,12/12/2020,27729
+Russia,12/13/2020,27651
+Russia,12/14/2020,26902
+Russia,12/15/2020,26265
+Russia,12/16/2020,26074
+Russia,12/17/2020,27787
+Russia,12/18/2020,28116
+Russia,12/19/2020,27772
+Russia,12/20/2020,28510
+Russia,12/21/2020,28917
+Russia,12/22/2020,28340
+Russia,12/23/2020,26814
+Russia,12/24/2020,29499
+Russia,12/25/2020,28595
+Russia,12/26/2020,28833
+Russia,12/27/2020,27849
+Russia,12/28/2020,27363
+Russia,12/29/2020,26588
+Russia,12/30/2020,26095
+Russia,12/31/2020,27329
+Russia,1/1/2021,26613
+Russia,1/2/2021,25938
+Russia,1/3/2021,23845
+Russia,1/4/2021,23015
+Russia,1/5/2021,23955
+Russia,1/6/2021,23902
+Russia,1/7/2021,23218
+Russia,1/8/2021,23330
+Russia,1/9/2021,23012
+Russia,1/10/2021,22540
+Russia,1/11/2021,23018
+Russia,1/12/2021,22657
+Russia,1/13/2021,22544
+Russia,1/14/2021,24303
+Russia,1/15/2021,24294
+Russia,1/16/2021,23670
+Russia,1/17/2021,23178
+Russia,1/18/2021,22509
+Russia,1/19/2021,21442
+Russia,1/20/2021,20806
+Russia,1/21/2021,21544
+Russia,1/22/2021,21182
+Russia,1/23/2021,20585
+Russia,1/24/2021,20800
+Russia,1/25/2021,18999
+Russia,1/26/2021,17982
+Russia,1/27/2021,17464
+Russia,1/28/2021,18856
+Russia,1/29/2021,18966
+Russia,1/30/2021,18751
+Russia,1/31/2021,18083
+Russia,2/1/2021,17391
+Russia,2/2/2021,16406
+Russia,2/3/2021,16222
+Russia,2/4/2021,16463
+Russia,2/5/2021,16444
+Russia,2/6/2021,16379
+Russia,2/7/2021,15808
+Russia,2/8/2021,15701
+Russia,2/9/2021,14808
+Russia,2/10/2021,14258
+Russia,2/11/2021,14803
+Russia,2/12/2021,14867
+Russia,2/13/2021,14640
+Russia,2/14/2021,13968
+Russia,2/15/2021,13999
+Russia,2/16/2021,13030
+Russia,2/17/2021,12629
+Russia,2/18/2021,13243
+Russia,2/19/2021,13242
+Russia,2/20/2021,12775
+Russia,2/21/2021,12568
+Russia,2/22/2021,12455
+Russia,2/23/2021,11679
+Russia,2/24/2021,11609
+Russia,2/25/2021,11067
+Russia,2/26/2021,10955
+Russia,2/27/2021,11409
+Russia,2/28/2021,11234
+Russia,3/1/2021,11450
+Russia,3/2/2021,10441
+Russia,3/3/2021,10416
+Russia,3/4/2021,11263
+Russia,3/5/2021,10906
+Russia,3/6/2021,10909
+Russia,3/7/2021,10478
+Russia,3/8/2021,10145
+Russia,3/9/2021,9342
+Russia,3/10/2021,8976
+Russia,3/11/2021,9167
+Russia,3/12/2021,9695
+Russia,3/13/2021,9808
+Russia,3/14/2021,9985
+Russia,3/15/2021,9347
+Russia,3/16/2021,9305
+Russia,3/17/2021,8910
+Russia,3/18/2021,9713
+Russia,3/19/2021,9612
+Russia,3/20/2021,9548
+Russia,3/21/2021,9215
+Russia,3/22/2021,9195
+Russia,3/23/2021,8369
+Russia,3/24/2021,8769
+Russia,3/25/2021,9128
+Russia,3/26/2021,9073
+Russia,3/27/2021,8783
+Russia,3/28/2021,8979
+Russia,3/29/2021,8589
+Russia,3/30/2021,8162
+Russia,3/31/2021,8156
+Russia,4/1/2021,9057
+Russia,4/2/2021,8682
+Russia,4/3/2021,8906
+Russia,4/4/2021,8697
+Russia,4/5/2021,8525
+Russia,4/6/2021,8206
+Russia,4/7/2021,8174
+Russia,4/8/2021,8545
+Russia,4/9/2021,9027
+Russia,4/10/2021,8580
+Russia,4/11/2021,8576
+Russia,4/12/2021,8191
+Russia,4/13/2021,8044
+Russia,4/14/2021,8202
+Russia,4/15/2021,8818
+Russia,4/16/2021,8872
+Russia,4/17/2021,9201
+Russia,4/18/2021,8507
+Russia,4/19/2021,8465
+Russia,4/20/2021,8044
+Russia,4/21/2021,8146
+Russia,4/22/2021,8874
+Russia,4/23/2021,8717
+Russia,4/24/2021,8698
+Russia,4/25/2021,8652
+Russia,4/26/2021,8681
+Russia,4/27/2021,7931
+Russia,4/28/2021,7729
+Russia,4/29/2021,9161
+Russia,4/30/2021,8613
+Russia,5/1/2021,9147
+Russia,5/2/2021,8574
+Russia,5/3/2021,8368
+Russia,5/4/2021,7653
+Russia,5/5/2021,7857
+Russia,5/6/2021,7518
+Russia,5/7/2021,8261
+Russia,5/8/2021,8198
+Russia,5/9/2021,8290
+Russia,5/10/2021,8338
+Russia,5/11/2021,7989
+Russia,5/12/2021,8096
+Russia,5/13/2021,8259
+Russia,5/14/2021,9338
+Russia,5/15/2021,8667
+Russia,5/16/2021,8426
+Russia,5/17/2021,9204
+Russia,5/18/2021,8057
+Russia,5/19/2021,7799
+Russia,5/20/2021,9112
+Russia,5/21/2021,8811
+Russia,5/22/2021,8585
+Russia,5/23/2021,8827
+Russia,5/24/2021,8283
+Russia,5/25/2021,7762
+Russia,5/26/2021,8247
+Russia,5/27/2021,8911
+Russia,5/28/2021,9126
+Russia,5/29/2021,9155
+Russia,5/30/2021,9558
+Russia,5/31/2021,8341
+Russia,6/1/2021,9369
+Russia,6/2/2021,8702
+Russia,6/3/2021,8807
+Russia,6/4/2021,8820
+Russia,6/5/2021,9011
+Russia,6/6/2021,9025
+Russia,6/7/2021,9297
+Russia,6/8/2021,9843
+Russia,6/9/2021,10271
+Russia,6/10/2021,11560
+Russia,6/11/2021,12361
+Russia,6/12/2021,13360
+Russia,6/13/2021,14561
+United States,1/22/2020,
+United States,1/23/2020,0
+United States,1/24/2020,1
+United States,1/25/2020,0
+United States,1/26/2020,3
+United States,1/27/2020,0
+United States,1/28/2020,0
+United States,1/29/2020,1
+United States,1/30/2020,0
+United States,1/31/2020,2
+United States,2/1/2020,0
+United States,2/2/2020,0
+United States,2/3/2020,3
+United States,2/4/2020,0
+United States,2/5/2020,0
+United States,2/6/2020,1
+United States,2/7/2020,0
+United States,2/8/2020,0
+United States,2/9/2020,0
+United States,2/10/2020,0
+United States,2/11/2020,1
+United States,2/12/2020,0
+United States,2/13/2020,1
+United States,2/14/2020,0
+United States,2/15/2020,0
+United States,2/16/2020,0
+United States,2/17/2020,0
+United States,2/18/2020,0
+United States,2/19/2020,0
+United States,2/20/2020,0
+United States,2/21/2020,2
+United States,2/22/2020,0
+United States,2/23/2020,0
+United States,2/24/2020,0
+United States,2/25/2020,0
+United States,2/26/2020,0
+United States,2/27/2020,1
+United States,2/28/2020,0
+United States,2/29/2020,8
+United States,3/1/2020,7
+United States,3/2/2020,23
+United States,3/3/2020,19
+United States,3/4/2020,33
+United States,3/5/2020,77
+United States,3/6/2020,53
+United States,3/7/2020,166
+United States,3/8/2020,116
+United States,3/9/2020,75
+United States,3/10/2020,188
+United States,3/11/2020,365
+United States,3/12/2020,439
+United States,3/13/2020,633
+United States,3/14/2020,759
+United States,3/15/2020,234
+United States,3/16/2020,1467
+United States,3/17/2020,1833
+United States,3/18/2020,2657
+United States,3/19/2020,4494
+United States,3/20/2020,6367
+United States,3/21/2020,5995
+United States,3/22/2020,8873
+United States,3/23/2020,11238
+United States,3/24/2020,10619
+United States,3/25/2020,12082
+United States,3/26/2020,17856
+United States,3/27/2020,18690
+United States,3/28/2020,19630
+United States,3/29/2020,18899
+United States,3/30/2020,22075
+United States,3/31/2020,26314
+United States,4/1/2020,32286
+United States,4/2/2020,32222
+United States,4/3/2020,32307
+United States,4/4/2020,32386
+United States,4/5/2020,29895
+United States,4/6/2020,31390
+United States,4/7/2020,30779
+United States,4/8/2020,31235
+United States,4/9/2020,35942
+United States,4/10/2020,34403
+United States,4/11/2020,29083
+United States,4/12/2020,27256
+United States,4/13/2020,26939
+United States,4/14/2020,28818
+United States,4/15/2020,25408
+United States,4/16/2020,30002
+United States,4/17/2020,33066
+United States,4/18/2020,27907
+United States,4/19/2020,26062
+United States,4/20/2020,29820
+United States,4/21/2020,25926
+United States,4/22/2020,28911
+United States,4/23/2020,33612
+United States,4/24/2020,32327
+United States,4/25/2020,30380
+United States,4/26/2020,26488
+United States,4/27/2020,23715
+United States,4/28/2020,24575
+United States,4/29/2020,26459
+United States,4/30/2020,29205
+United States,5/1/2020,34907
+United States,5/2/2020,27348
+United States,5/3/2020,24321
+United States,5/4/2020,24068
+United States,5/5/2020,24528
+United States,5/6/2020,24569
+United States,5/7/2020,27429
+United States,5/8/2020,26830
+United States,5/9/2020,25176
+United States,5/10/2020,18805
+United States,5/11/2020,19298
+United States,5/12/2020,22927
+United States,5/13/2020,20433
+United States,5/14/2020,26817
+United States,5/15/2020,24733
+United States,5/16/2020,24135
+United States,5/17/2020,18388
+United States,5/18/2020,22389
+United States,5/19/2020,20979
+United States,5/20/2020,22725
+United States,5/21/2020,25769
+United States,5/22/2020,23649
+United States,5/23/2020,21099
+United States,5/24/2020,20077
+United States,5/25/2020,18662
+United States,5/26/2020,19663
+United States,5/27/2020,18551
+United States,5/28/2020,22320
+United States,5/29/2020,24478
+United States,5/30/2020,23632
+United States,5/31/2020,18983
+United States,6/1/2020,17414
+United States,6/2/2020,21502
+United States,6/3/2020,19857
+United States,6/4/2020,21658
+United States,6/5/2020,25403
+United States,6/6/2020,21142
+United States,6/7/2020,17928
+United States,6/8/2020,17616
+United States,6/9/2020,18383
+United States,6/10/2020,21111
+United States,6/11/2020,23166
+United States,6/12/2020,24828
+United States,6/13/2020,25212
+United States,6/14/2020,18941
+United States,6/15/2020,19827
+United States,6/16/2020,23667
+United States,6/17/2020,27072
+United States,6/18/2020,28537
+United States,6/19/2020,31544
+United States,6/20/2020,32280
+United States,6/21/2020,25150
+United States,6/22/2020,32144
+United States,6/23/2020,37072
+United States,6/24/2020,35878
+United States,6/25/2020,40326
+United States,6/26/2020,45999
+United States,6/27/2020,41330
+United States,6/28/2020,40734
+United States,6/29/2020,41299
+United States,6/30/2020,46420
+United States,7/1/2020,51820
+United States,7/2/2020,56636
+United States,7/3/2020,51351
+United States,7/4/2020,45693
+United States,7/5/2020,50747
+United States,7/6/2020,43106
+United States,7/7/2020,60661
+United States,7/8/2020,60119
+United States,7/9/2020,62509
+United States,7/10/2020,68057
+United States,7/11/2020,60017
+United States,7/12/2020,58424
+United States,7/13/2020,58930
+United States,7/14/2020,68051
+United States,7/15/2020,68090
+United States,7/16/2020,75866
+United States,7/17/2020,72236
+United States,7/18/2020,62536
+United States,7/19/2020,60456
+United States,7/20/2020,62107
+United States,7/21/2020,64461
+United States,7/22/2020,70579
+United States,7/23/2020,68445
+United States,7/24/2020,73319
+United States,7/25/2020,64953
+United States,7/26/2020,54816
+United States,7/27/2020,56783
+United States,7/28/2020,66412
+United States,7/29/2020,71873
+United States,7/30/2020,67466
+United States,7/31/2020,68712
+United States,8/1/2020,56201
+United States,8/2/2020,45568
+United States,8/3/2020,45501
+United States,8/4/2020,58774
+United States,8/5/2020,54466
+United States,8/6/2020,59349
+United States,8/7/2020,59303
+United States,8/8/2020,54134
+United States,8/9/2020,45769
+United States,8/10/2020,47606
+United States,8/11/2020,48003
+United States,8/12/2020,56040
+United States,8/13/2020,51316
+United States,8/14/2020,65336
+United States,8/15/2020,46951
+United States,8/16/2020,39212
+United States,8/17/2020,36652
+United States,8/18/2020,45033
+United States,8/19/2020,47320
+United States,8/20/2020,44041
+United States,8/21/2020,48843
+United States,8/22/2020,43064
+United States,8/23/2020,34247
+United States,8/24/2020,36482
+United States,8/25/2020,40354
+United States,8/26/2020,45172
+United States,8/27/2020,45393
+United States,8/28/2020,46832
+United States,8/29/2020,42754
+United States,8/30/2020,34404
+United States,8/31/2020,35362
+United States,9/1/2020,41846
+United States,9/2/2020,41018
+United States,9/3/2020,44251
+United States,9/4/2020,50382
+United States,9/5/2020,43158
+United States,9/6/2020,31218
+United States,9/7/2020,23613
+United States,9/8/2020,27226
+United States,9/9/2020,34049
+United States,9/10/2020,36056
+United States,9/11/2020,47769
+United States,9/12/2020,41101
+United States,9/13/2020,34372
+United States,9/14/2020,34423
+United States,9/15/2020,39492
+United States,9/16/2020,39030
+United States,9/17/2020,45130
+United States,9/18/2020,49282
+United States,9/19/2020,42202
+United States,9/20/2020,38447
+United States,9/21/2020,51878
+United States,9/22/2020,39866
+United States,9/23/2020,39069
+United States,9/24/2020,47103
+United States,9/25/2020,48295
+United States,9/26/2020,44673
+United States,9/27/2020,37528
+United States,9/28/2020,33294
+United States,9/29/2020,43338
+United States,9/30/2020,39443
+United States,10/1/2020,45650
+United States,10/2/2020,54950
+United States,10/3/2020,48577
+United States,10/4/2020,35738
+United States,10/5/2020,39376
+United States,10/6/2020,45289
+United States,10/7/2020,51056
+United States,10/8/2020,58599
+United States,10/9/2020,56384
+United States,10/10/2020,54953
+United States,10/11/2020,45981
+United States,10/12/2020,41774
+United States,10/13/2020,52231
+United States,10/14/2020,59778
+United States,10/15/2020,64880
+United States,10/16/2020,69147
+United States,10/17/2020,56759
+United States,10/18/2020,49367
+United States,10/19/2020,67717
+United States,10/20/2020,61956
+United States,10/21/2020,63301
+United States,10/22/2020,76310
+United States,10/23/2020,81933
+United States,10/24/2020,82767
+United States,10/25/2020,62204
+United States,10/26/2020,67310
+United States,10/27/2020,76838
+United States,10/28/2020,79426
+United States,10/29/2020,91019
+United States,10/30/2020,99264
+United States,10/31/2020,89754
+United States,11/1/2020,104900
+United States,11/2/2020,85211
+United States,11/3/2020,127198
+United States,11/4/2020,104541
+United States,11/5/2020,129367
+United States,11/6/2020,128033
+United States,11/7/2020,127510
+United States,11/8/2020,115170
+United States,11/9/2020,120434
+United States,11/10/2020,140504
+United States,11/11/2020,146750
+United States,11/12/2020,164750
+United States,11/13/2020,180398
+United States,11/14/2020,167926
+United States,11/15/2020,136356
+United States,11/16/2020,162624
+United States,11/17/2020,163958
+United States,11/18/2020,173251
+United States,11/19/2020,191510
+United States,11/20/2020,198333
+United States,11/21/2020,179436
+United States,11/22/2020,146947
+United States,11/23/2020,174089
+United States,11/24/2020,175544
+United States,11/25/2020,183403
+United States,11/26/2020,112526
+United States,11/27/2020,207933
+United States,11/28/2020,155661
+United States,11/29/2020,140328
+United States,11/30/2020,160321
+United States,12/1/2020,188339
+United States,12/2/2020,202894
+United States,12/3/2020,223421
+United States,12/4/2020,232644
+United States,12/5/2020,215811
+United States,12/6/2020,181253
+United States,12/7/2020,194409
+United States,12/8/2020,224452
+United States,12/9/2020,222648
+United States,12/10/2020,231428
+United States,12/11/2020,240089
+United States,12/12/2020,217797
+United States,12/13/2020,187971
+United States,12/14/2020,194314
+United States,12/15/2020,208992
+United States,12/16/2020,246644
+United States,12/17/2020,239900
+United States,12/18/2020,251832
+United States,12/19/2020,192102
+United States,12/20/2020,188015
+United States,12/21/2020,198703
+United States,12/22/2020,198107
+United States,12/23/2020,229624
+United States,12/24/2020,194155
+United States,12/25/2020,97880
+United States,12/26/2020,226416
+United States,12/27/2020,155845
+United States,12/28/2020,174152
+United States,12/29/2020,200408
+United States,12/30/2020,233701
+United States,12/31/2020,235600
+United States,1/1/2021,153916
+United States,1/2/2021,300462
+United States,1/3/2021,208853
+United States,1/4/2021,184005
+United States,1/5/2021,235042
+United States,1/6/2021,255637
+United States,1/7/2021,278337
+United States,1/8/2021,295257
+United States,1/9/2021,260967
+United States,1/10/2021,213415
+United States,1/11/2021,214664
+United States,1/12/2021,226967
+United States,1/13/2021,230301
+United States,1/14/2021,235766
+United States,1/15/2021,242780
+United States,1/16/2021,201858
+United States,1/17/2021,177931
+United States,1/18/2021,143598
+United States,1/19/2021,176216
+United States,1/20/2021,183261
+United States,1/21/2021,193856
+United States,1/22/2021,190760
+United States,1/23/2021,170759
+United States,1/24/2021,131198
+United States,1/25/2021,151677
+United States,1/26/2021,147626
+United States,1/27/2021,153961
+United States,1/28/2021,168804
+United States,1/29/2021,166613
+United States,1/30/2021,142459
+United States,1/31/2021,112152
+United States,2/1/2021,134975
+United States,2/2/2021,115303
+United States,2/3/2021,121691
+United States,2/4/2021,124006
+United States,2/5/2021,134422
+United States,2/6/2021,104176
+United States,2/7/2021,89746
+United States,2/8/2021,90438
+United States,2/9/2021,95265
+United States,2/10/2021,95250
+United States,2/11/2021,105764
+United States,2/12/2021,99670
+United States,2/13/2021,87219
+United States,2/14/2021,65135
+United States,2/15/2021,54279
+United States,2/16/2021,62498
+United States,2/17/2021,70139
+United States,2/18/2021,69911
+United States,2/19/2021,79282
+United States,2/20/2021,71608
+United States,2/21/2021,57161
+United States,2/22/2021,56151
+United States,2/23/2021,72278
+United States,2/24/2021,74736
+United States,2/25/2021,77514
+United States,2/26/2021,77333
+United States,2/27/2021,64644
+United States,2/28/2021,51419
+United States,3/1/2021,58099
+United States,3/2/2021,57090
+United States,3/3/2021,67201
+United States,3/4/2021,68057
+United States,3/5/2021,66429
+United States,3/6/2021,58247
+United States,3/7/2021,41075
+United States,3/8/2021,44919
+United States,3/9/2021,57654
+United States,3/10/2021,57908
+United States,3/11/2021,62461
+United States,3/12/2021,61511
+United States,3/13/2021,53029
+United States,3/14/2021,38282
+United States,3/15/2021,56546
+United States,3/16/2021,53993
+United States,3/17/2021,59279
+United States,3/18/2021,60374
+United States,3/19/2021,61666
+United States,3/20/2021,55496
+United States,3/21/2021,33840
+United States,3/22/2021,51433
+United States,3/23/2021,53668
+United States,3/24/2021,86954
+United States,3/25/2021,67549
+United States,3/26/2021,77370
+United States,3/27/2021,62848
+United States,3/28/2021,43220
+United States,3/29/2021,69282
+United States,3/30/2021,61426
+United States,3/31/2021,66769
+United States,4/1/2021,79115
+United States,4/2/2021,69886
+United States,4/3/2021,63258
+United States,4/4/2021,35126
+United States,4/5/2021,77399
+United States,4/6/2021,60690
+United States,4/7/2021,75005
+United States,4/8/2021,79882
+United States,4/9/2021,82713
+United States,4/10/2021,66696
+United States,4/11/2021,46506
+United States,4/12/2021,70093
+United States,4/13/2021,77957
+United States,4/14/2021,75413
+United States,4/15/2021,74304
+United States,4/16/2021,80051
+United States,4/17/2021,52546
+United States,4/18/2021,42114
+United States,4/19/2021,68123
+United States,4/20/2021,60941
+United States,4/21/2021,62859
+United States,4/22/2021,67269
+United States,4/23/2021,62405
+United States,4/24/2021,53492
+United States,4/25/2021,32165
+United States,4/26/2021,47566
+United States,4/27/2021,50841
+United States,4/28/2021,55141
+United States,4/29/2021,58255
+United States,4/30/2021,57920
+United States,5/1/2021,45383
+United States,5/2/2021,29404
+United States,5/3/2021,50492
+United States,5/4/2021,40716
+United States,5/5/2021,44713
+United States,5/6/2021,47552
+United States,5/7/2021,48137
+United States,5/8/2021,33676
+United States,5/9/2021,21430
+United States,5/10/2021,36804
+United States,5/11/2021,33644
+United States,5/12/2021,35839
+United States,5/13/2021,38076
+United States,5/14/2021,42259
+United States,5/15/2021,28854
+United States,5/16/2021,16887
+United States,5/17/2021,28622
+United States,5/18/2021,27790
+United States,5/19/2021,29293
+United States,5/20/2021,30208
+United States,5/21/2021,27952
+United States,5/22/2021,19799
+United States,5/23/2021,12866
+United States,5/24/2021,25819
+United States,5/25/2021,22739
+United States,5/26/2021,23972
+United States,5/27/2021,27454
+United States,5/28/2021,21858
+United States,5/29/2021,11999
+United States,5/30/2021,6733
+United States,5/31/2021,5776
+United States,6/1/2021,22943
+United States,6/2/2021,16913
+United States,6/3/2021,19074
+United States,6/4/2021,16860
+United States,6/5/2021,13908
+United States,6/6/2021,5395
+United States,6/7/2021,15496
+United States,6/8/2021,13011
+United States,6/9/2021,18646
+United States,6/10/2021,14543
+United States,6/11/2021,24904
+United States,6/12/2021,8207
+United States,6/13/2021,4575
